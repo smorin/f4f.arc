@@ -1,0 +1,1 @@
+("5.0.2" ("bd5f2dc7f6415b9c5c838a903d7babb4453aaa8f" . "b573da985eb6a8daae435ac3535957ef93a7dda3") (collects #"racket" #"unit" #"lang.rkt") (collects #"srfi" #"13" #"string.rkt") (collects #"srfi" #"14" #"char-set.rkt") (collects #"net" #"cookie-sig.rkt") (collects #"scheme" #"unit" #"lang" #"reader.rkt"))

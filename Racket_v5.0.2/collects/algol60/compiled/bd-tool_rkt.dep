@@ -1,0 +1,1 @@
+("5.0.2" ("4c42707ec621980e341591ef2d788b1c8968ff69" . "a40d045880345b626d7cb12592cc3d2f2700ba47") (collects #"framework" #"private" #"decode.rkt") (collects #"mred" #"main.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"unit.rkt") (collects #"drracket" #"tool.rkt") (collects #"s-exp" #"lang" #"reader.rkt"))

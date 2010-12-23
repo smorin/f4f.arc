@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="0.9"><dict><key>CFBundleDevelopmentRegion</key><string>English</string><key>CFBundleExecutable</key><string>PLT Games</string><key>CFBundleIdentifier</key><string>org.racket-lang.PLT Games</string><key>CFBundleIconFile</key><string>Starter</string><key>CFBundleInfoDictionaryVersion</key><string>6.0</string><key>CFBundlePackageType</key><string>APPL</string><key>CFBundleSignature</key><string>MrSt</string><key>CFBundleVersion</key><string>5.0.2</string><key>CFBundleShortVersionString</key><string>5.0.2</string></dict></plist>

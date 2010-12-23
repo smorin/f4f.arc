@@ -1,0 +1,1 @@
+("5.0.2" ("2414d3c96f624882d0e9dc18bf20b067a8e623e2" . "f2031c3b3a0b8e6e1f4daa21aa4da180f53a039c") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"plot" #"math.rkt") (collects #"plot" #"renderer-helpers.rkt") (collects #"mzlib" #"class.rkt") (collects #"plot" #"plot-extend.rkt"))

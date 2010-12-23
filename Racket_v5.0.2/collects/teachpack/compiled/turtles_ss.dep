@@ -1,0 +1,1 @@
+("5.0.2" ("98f4ec730263a5c55a32160d4f135804ed63a1bb" . "2248a47f9b45be20c643394ef05676c68c208ea6") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"graphics" #"turtles.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("9208857dbdacdcec0787e8321488612e2820633d" . "2f55d410f9ac1d78c96b09fd85d449144707dbf7") (collects #"racket" #"unit" #"lang.rkt") (collects #"mzlib" #"process.rkt") (collects #"net" #"sendmail-sig.rkt") (collects #"scheme" #"unit" #"lang" #"reader.rkt"))

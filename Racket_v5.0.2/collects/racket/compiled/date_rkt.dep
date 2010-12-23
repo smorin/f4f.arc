@@ -1,0 +1,1 @@
+("5.0.2" ("99313e3f22f657a355601bd4ad8f8090efc8727a" . "afa0b173e5b7b9eb565c13b26befaa39d6ef2db0") (collects #"scheme" #"base.rkt") (collects #"mzlib" #"date.rkt"))

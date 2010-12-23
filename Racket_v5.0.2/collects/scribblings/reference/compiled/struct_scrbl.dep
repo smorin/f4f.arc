@@ -1,0 +1,1 @@
+("5.0.2" ("b1cf103938c8f261609d63d1974e7452ab920c2d" . "35394904952bd40efedcea3393568e74a51c3a5d") (collects #"racket" #"struct-info.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribblings" #"reference" #"mz.rkt") (collects #"scribblings" #"reference" #"define-struct.scrbl") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

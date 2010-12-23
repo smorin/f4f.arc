@@ -1,0 +1,1 @@
+("5.0.2" ("b360778b5d012af9f55cf4d126de21f128c5539d" . "d0a9de1c77e2830d78f54d3642daf481e82868dd") (collects #"scheme" #"base.rkt") (collects #"scheme" #"unit.rkt") (collects #"scheme" #"class.rkt") (collects #"scheme" #"surrogate.rkt") (collects #"framework" #"private" #"sig.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("dd3a8cf780722349daf21208ad7b3fc9c4f93f29" . "6ceeb884b172af0a16480e66c0f3dd0aa633b8c3") (collects #"scheme" #"base.rkt") (collects #"teachpack" #"htdp" #"scribblings" #"shared.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

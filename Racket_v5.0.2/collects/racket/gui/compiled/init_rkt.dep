@@ -1,0 +1,1 @@
+("5.0.2" ("116ec038a819ffcf74a81e836b2731052771a02b" . "b0af2a242de95adf01a8d41a9f52937fd876883c") (collects #"scheme" #"gui.rkt") (collects #"scheme" #"init.rkt"))

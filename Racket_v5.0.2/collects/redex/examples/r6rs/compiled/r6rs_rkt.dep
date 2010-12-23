@@ -1,0 +1,1 @@
+("5.0.2" ("633df78643fccc88ba5fa5b8865ebc00d7d1ddc0" . "873935356440a90515b5d4401dd5c988ca3a2399") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"redex" #"reduction-semantics.rkt") (collects #"mzlib" #"plt-match.rkt"))

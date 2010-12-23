@@ -1,0 +1,1 @@
+("5.0.2" ("36e7a4231d90470ee3f1b64908a8c22369c166e4" . "ba1bce625b6f369fbfb9bf1c38d867dc125272b4") (collects #"scheme" #"base.rkt") (collects #"scheme" #"stxparam.rkt") (collects #"scheme" #"stxparam-exptime.rkt"))

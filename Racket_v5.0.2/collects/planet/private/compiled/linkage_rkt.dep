@@ -1,0 +1,1 @@
+("5.0.2" ("717c61e919babc6b4be7c28f940334739b008c30" . "d73d0bcfb1fa50eefe34a927154fb2dda99de89d") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"planet" #"private" #"planet-shared.rkt") (collects #"planet" #"config.rkt") (collects #"mzlib" #"match.rkt"))

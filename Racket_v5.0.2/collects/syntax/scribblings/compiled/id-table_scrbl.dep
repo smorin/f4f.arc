@@ -1,0 +1,1 @@
+("5.0.2" ("1f77f348d604426ceda53cd937ef3ed1339df65a" . "fcb65212d2946debc995e00cab57e71158b23a61") (collects #"syntax" #"id-table.rkt") (collects #"scheme" #"dict.rkt") (collects #"scribble" #"doclang.rkt") (collects #"syntax" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

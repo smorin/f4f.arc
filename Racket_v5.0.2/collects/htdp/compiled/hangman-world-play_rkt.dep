@@ -1,0 +1,1 @@
+("5.0.2" ("f9c036b14099fbb0ead1a26eb4e31fc2ca6ce527" . "878a943a27d76a2d20bad5ef5750941c6ea2f716") (collects #"scheme" #"gui.rkt") (collects #"htdp" #"hangman-world.rkt") (collects #"htdp" #"world.rkt") (collects #"scheme" #"gui" #"lang" #"reader.rkt"))

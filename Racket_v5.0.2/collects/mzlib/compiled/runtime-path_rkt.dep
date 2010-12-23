@@ -1,0 +1,1 @@
+("5.0.2" ("df475ffc8e2f11795cc8a7f5821594f81a7349fb" . "56146ceaf0303d2a0b4dfb9058dc87f28246b7d7") (collects #"scheme" #"base.rkt") (collects #"mzlib" #"etc.rkt") (collects #"syntax" #"modcollapse.rkt") (collects #"setup" #"dirs.rkt") (collects #"scheme" #"list.rkt") (collects #"scheme" #"string.rkt") (collects #"mzlib" #"private" #"runtime-path-table.rkt"))

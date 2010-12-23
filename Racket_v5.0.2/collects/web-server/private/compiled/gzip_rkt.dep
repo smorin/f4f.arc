@@ -1,0 +1,1 @@
+("5.0.2" ("fab80ce1d4a06f35b8eba2a89c3dd6cd530edd6e" . "9a42cb832c1f4c9250c0bb23678b31fd94a752ce") (collects #"racket" #"main.rkt") (collects #"file" #"gzip.rkt") (collects #"file" #"gunzip.rkt") (collects #"racket" #"lang" #"reader.rkt"))

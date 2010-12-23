@@ -1,0 +1,1 @@
+("5.0.2" ("d3d62176eb414065ad7c943837a7287e12e09888" . "cb8abef6e598ca22f6db6f56655478a413527da0") (collects #"scheme" #"base.rkt") (collects #"scheme" #"list.rkt") (collects #"scheme" #"match.rkt") (collects #"scheme" #"contract.rkt") (collects #"redex" #"private" #"underscore-allowed.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

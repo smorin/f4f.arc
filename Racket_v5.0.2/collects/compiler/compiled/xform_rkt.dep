@@ -1,0 +1,1 @@
+("5.0.2" ("2d09e84f5dd2aea9fc96db4eee8bcbe14ba69075" . "d05af842c571e051e33442eac1bac444707c3e1e") (collects #"scheme" #"base.rkt") (collects #"dynext" #"compile.rkt") (collects #"setup" #"dirs.rkt") (collects #"compiler" #"private" #"xform.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

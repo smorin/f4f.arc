@@ -1,0 +1,1 @@
+("5.0.2" ("b0df6c3dcfbea7b715884e67da8ebe0783890f74" . "c11e108f38383fe0cb64cf49c8c76ec77a328297") (collects #"racket" #"unit" #"lang.rkt") (collects #"net" #"qp-sig.rkt") (collects #"scheme" #"unit" #"lang" #"reader.rkt"))

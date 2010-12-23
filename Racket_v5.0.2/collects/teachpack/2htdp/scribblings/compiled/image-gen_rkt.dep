@@ -1,0 +1,1 @@
+("5.0.2" ("084ceef52145fdb740e51bfe9ef69dd3d352db91" . "efc28931ff01b83022e2bb7ee987893bcf9392f9") (collects #"racket" #"gui.rkt") (collects #"2htdp" #"image.rkt") (collects #"lang" #"posn.rkt") (collects #"racket" #"runtime-path.rkt") (collects #"racket" #"gui" #"lang" #"reader.rkt"))

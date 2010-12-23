@@ -1,0 +1,1 @@
+("5.0.2" ("12f1e56b8f32bf3fc09760922548a9b887d13bd2" . "daa84374fec10101ea8c4696ad096e334fd0ff2d") (collects #"racket" #"unit" #"lang.rkt") (collects #"syntax" #"kerncase.rkt") (collects #"syntax" #"zodiac-sig.rkt") (collects #"syntax" #"stx.rkt") (collects #"scheme" #"unit" #"lang" #"reader.rkt"))

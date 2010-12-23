@@ -1,0 +1,1 @@
+("5.0.2" ("2cae47ec347c49247860f18bf43da9b948a284f9" . "2fb36c7ad5ec324a080a1f63814da2189bc545dc") (collects #"racket" #"unit" #"lang.rkt") (collects #"racket" #"gui" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"list.rkt") (collects #"texpict" #"private" #"common-sig.rkt") (collects #"racket" #"unit" #"lang" #"reader.rkt"))

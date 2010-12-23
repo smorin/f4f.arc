@@ -1,0 +1,1 @@
+("5.0.2" ("a1fd20847c4e7feafdef62c72782c67f3233f4df" . "48d43cf47c342e010d2b1c4579bd1d0a5aff162e") (collects #"scheme" #"base.rkt") (collects #"stepper" #"private" #"shared.rkt") (collects #"scheme" #"promise.rkt") (collects #"mzlib" #"struct.rkt") (collects #"deinprogramm" #"quickcheck" #"quickcheck.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

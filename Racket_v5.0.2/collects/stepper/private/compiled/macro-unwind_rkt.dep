@@ -1,0 +1,1 @@
+("5.0.2" ("3f2a24fe139ef1f7a92a9a0617b53c08ca36bac1" . "40993eeef22dd574e3372b412257225e0915e835") (collects #"scheme" #"base.rkt") (collects #"syntax" #"kerncase.rkt") (collects #"scheme" #"contract.rkt") (collects #"scheme" #"list.rkt") (collects #"stepper" #"private" #"model-settings.rkt") (collects #"stepper" #"private" #"shared.rkt"))

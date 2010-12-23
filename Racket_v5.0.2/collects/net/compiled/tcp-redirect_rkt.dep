@@ -1,0 +1,1 @@
+("5.0.2" ("5e8e38bcb4dbd7859b90eadeace11af7c9e6942e" . "c6595f6d83310e85b3bb3af2ba44d8af8da7caf6") (collects #"scheme" #"base.rkt") (collects #"scheme" #"unit.rkt") (collects #"scheme" #"tcp.rkt") (collects #"scheme" #"async-channel.rkt") (collects #"net" #"tcp-sig.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

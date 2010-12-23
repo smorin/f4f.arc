@@ -1,0 +1,1 @@
+("5.0.2" ("042a41bc55499375254fffd355596175434cd792" . "e25067eeeea7de79c28f723046d52ab19ca95edc") (collects #"mrlib" #"gif.rkt") (collects #"file" #"gif.rkt") (collects #"scribble" #"doclang.rkt") (collects #"mrlib" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

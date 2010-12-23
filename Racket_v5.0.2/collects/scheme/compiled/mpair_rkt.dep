@@ -1,0 +1,1 @@
+("5.0.2" ("6606466f9586732067ae74093ee24aee44111a6f" . "11789eecb6d0cf832bf0ad1bdcf524a5b65c2810") (collects #"scheme" #"private" #"provider" #"lang.rkt") (collects #"racket" #"mpair.rkt") (collects #"scheme" #"private" #"provider" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("015274539a87009f65f84f6a0271ec27c52bb394" . "4342a742d8e755dde4d2d758edb311c005976bd9") (collects #"racket" #"base.rkt") (collects #"syntax" #"struct.rkt") (collects #"mzlib" #"unit.rkt") (collects #"racket" #"contract" #"base.rkt"))

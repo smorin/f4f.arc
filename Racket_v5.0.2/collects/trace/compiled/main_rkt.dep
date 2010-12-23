@@ -1,0 +1,1 @@
+("5.0.2" ("f2158cfee9b45e75bd0b5abbbc88fbfdcb8f2491" . "c341956d77945acd33af173ed14c96e6e6a9b101") (collects #"scheme" #"base.rkt") (collects #"trace" #"calltrace.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("e3db6a9d804bcae2171b12387830ed1d0001a193" . "db738817145a59146543fe42e9bc0782aa29e891") (collects #"scheme" #"gui.rkt") (collects #"2htdp" #"private" #"timer.rkt") (collects #"scheme" #"gui" #"lang" #"reader.rkt"))

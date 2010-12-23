@@ -1,0 +1,1 @@
+("5.0.2" ("f556d8b87880c392a990361bc6838b2c28c21db4" . "4da661138de64cf4872dabfc242f904cb3a73b51") (collects #"racket" #"private" #"pre-base.rkt") (collects #"racket" #"private" #"list.rkt"))

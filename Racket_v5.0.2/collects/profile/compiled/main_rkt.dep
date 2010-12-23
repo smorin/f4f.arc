@@ -1,0 +1,1 @@
+("5.0.2" ("999f9cddb770f759b1f125889953c6daefbb92ee" . "3eb987580a4dcc9443ab802e5c702d64b3348776") (collects #"scheme" #"base.rkt") (collects #"profile" #"sampler.rkt") (collects #"profile" #"analyzer.rkt") (collects #"profile" #"render-text.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

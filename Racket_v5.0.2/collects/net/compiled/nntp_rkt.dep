@@ -1,0 +1,1 @@
+("5.0.2" ("90e8d8d5c11d3ee546eb5952519699587eca6163" . "624639e5b94f4b86ea083fa351824da403ee1e8d") (collects #"scheme" #"base.rkt") (collects #"scheme" #"unit.rkt") (collects #"net" #"nntp-sig.rkt") (collects #"net" #"nntp-unit.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

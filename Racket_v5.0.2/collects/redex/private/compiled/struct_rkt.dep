@@ -1,0 +1,1 @@
+("5.0.2" ("8a458928330d3d32729ce88679c951273d0ad0b2" . "97858fc19de432b6a2bd7543104940486a1c50c5") (collects #"scheme" #"base.rkt") (collects #"redex" #"private" #"matcher.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

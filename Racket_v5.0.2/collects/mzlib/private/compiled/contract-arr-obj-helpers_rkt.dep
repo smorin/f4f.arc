@@ -1,0 +1,1 @@
+("5.0.2" ("e684d156d61f5f0f9b53fc42e41567e99a831cc8" . "d082512f52af69db525591205bfb47667f60ea0a") (collects #"scheme" #"base.rkt") (collects #"racket" #"contract" #"private" #"guts.rkt") (collects #"mzlib" #"private" #"contract-arr-checks.rkt") (collects #"syntax" #"stx.rkt") (collects #"syntax" #"name.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

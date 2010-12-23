@@ -1,0 +1,1 @@
+("5.0.2" ("06cd9178e209d159d7244054b32f9b4bd272530f" . "43523c48a192a41578f3dbfd044b4821e13993d3") (collects #"mzscheme" #"main.rkt") (collects #"redex" #"private" #"term.rkt") (collects #"redex" #"private" #"matcher.rkt") (collects #"scheme" #"main.rkt") (collects #"mzlib" #"list.rkt") (collects #"redex" #"private" #"underscore-allowed.rkt"))

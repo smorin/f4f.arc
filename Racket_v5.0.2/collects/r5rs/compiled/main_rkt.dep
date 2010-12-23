@@ -1,0 +1,1 @@
+("5.0.2" ("1be0586512ff3c4a0e03349b20650e0abc059413" . "a39c871f0295c74b1dbb2e7d7583e5c7e7596cb0") (collects #"scheme" #"base.rkt") (collects #"syntax" #"kerncase.rkt") (collects #"r5rs" #"private" #"r5rs-trans.rkt") (collects #"scheme" #"mpair.rkt") (collects #"mzscheme" #"main.rkt"))

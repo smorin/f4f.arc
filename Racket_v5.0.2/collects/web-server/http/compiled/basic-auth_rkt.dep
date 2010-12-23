@@ -1,0 +1,1 @@
+("5.0.2" ("3ca3e1f354674d11c809958fcc07bfbebaf4fd36" . "f6af5414374e8b64f6962619ecf3b1c9f5e93d1f") (collects #"racket" #"main.rkt") (collects #"net" #"base64.rkt") (collects #"web-server" #"http" #"request-structs.rkt") (collects #"racket" #"lang" #"reader.rkt"))

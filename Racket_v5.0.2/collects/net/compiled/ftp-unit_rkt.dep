@@ -1,0 +1,1 @@
+("5.0.2" ("8ca2674f2d605be983490cfd5dc96cb7fe6e9cb4" . "24f9a4f8c5a2897ef57c0fc10a5518171d7af7f6") (collects #"racket" #"unit" #"lang.rkt") (collects #"racket" #"date.rkt") (collects #"racket" #"file.rkt") (collects #"racket" #"port.rkt") (collects #"racket" #"tcp.rkt") (collects #"net" #"ftp-sig.rkt") (collects #"racket" #"unit" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("0e44510643d00a9870a7794cea270755a6da6a1c" . "899f7dbdaf1435c7f724da9603ff516075f304d7") (collects #"mrlib" #"cache-image-snip.rkt") (collects #"scribble" #"doclang.rkt") (collects #"mrlib" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

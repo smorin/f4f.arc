@@ -1,0 +1,1 @@
+("5.0.2" ("060cb98822f1c4cf508163902b5f115b196c68fe" . "d8068f5be5f45b5ae58a4899fbadaeeb4856fd3d") (collects #"racket" #"main.rkt") (collects #"unstable" #"define.rkt") (collects #"scribble" #"manual" #"lang.rkt") (collects #"scribble" #"eval.rkt") (collects #"unstable" #"scribblings" #"utils.rkt") (collects #"scribble" #"manual" #"lang" #"reader.rkt"))

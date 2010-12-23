@@ -1,0 +1,1 @@
+("5.0.2" ("cabae8bb18dfe41097ab70b6c02ec55d96b9bf8c" . "56668c96b9252caf351c0ca1d8dba18a5e912ad8") (collects #"scheme" #"base.rkt") (collects #"setup" #"dirs.rkt") (collects #"setup" #"main-collects.rkt") (collects #"setup" #"path-relativize.rkt") (collects #"unstable" #"dirs.rkt") (collects #"planet" #"config.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

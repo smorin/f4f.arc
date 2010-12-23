@@ -1,0 +1,1 @@
+("5.0.2" ("8b8b6358375b6bb5290c4d558ef252be461199b7" . "72f948db6864525fdee51bb757951132f7943acd") (collects #"scheme" #"mzscheme.rkt") (collects #"syntax" #"stx.rkt") (collects #"mzlib" #"private" #"increader.rkt") (collects #"mzlib" #"cm-accomplice.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mzlib" #"etc.rkt"))

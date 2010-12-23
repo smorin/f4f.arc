@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="0.9"><dict><key>executable name</key><string>../../../GRacket.app/Contents/MacOS/GRacket</string><key>stored arguments</key><array><string>-I</string><string>scheme/gui/init</string><string>-l-</string><string>drscheme/drscheme.rkt</string></array></dict></plist>

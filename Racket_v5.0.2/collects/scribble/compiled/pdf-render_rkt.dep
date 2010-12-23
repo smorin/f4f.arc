@@ -1,0 +1,1 @@
+("5.0.2" ("cbd22d805b99b03cb7d17589bbccb2c77c02e039" . "a6847998e217ad7f6405db3baed47f78090954af") (collects #"scheme" #"base.rkt") (collects #"scribble" #"private" #"indirect-renderer.rkt") (collects #"scribble" #"private" #"run-pdflatex.rkt") (collects #"scribble" #"latex-render.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

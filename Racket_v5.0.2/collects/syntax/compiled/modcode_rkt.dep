@@ -1,0 +1,1 @@
+("5.0.2" ("096e8a9452c45d124ab4a96869d5cce209515f11" . "034483c56941a2339f3a62e04ff5f4d34a73a3c3") (collects #"scheme" #"base.rkt") (collects #"mzlib" #"port.rkt") (collects #"mzlib" #"contract.rkt") (collects #"syntax" #"modread.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("58a35852b07f95262ea862f6f477093129b97234" . "5f22ace6cd68e93422e04b681cf1698bc977c2aa") (collects #"racket" #"main.rkt") (collects #"datalog" #"private" #"pprint.rkt") (collects #"datalog" #"ast.rkt") (collects #"racket" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("b8276af5f4d9d0d16d15b11794fef3fda2d06860" . "491c5ae8748a5ea24414b29c3f5497dd6a060445") (collects #"racket" #"base.rkt") (collects #"syntax" #"modcode.rkt") (collects #"syntax" #"modresolve.rkt") (collects #"macro-debugger" #"model" #"trace.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,6 @@
+CC=gcc-4.0 -m32
+CFLAGS=-g -O2  -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mmacosx-version-min=10.4 -DEXTRA_EXCEPTION_STUBS -DOS_X -D_DARWIN_UNLIMITED_SELECT -pthread  -Wall
+OPTIONS= -fno-common
+MZOPTIONS=
+LDFLAGS= -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mmacosx-version-min=10.4 -pthread
+LIBS=-ldl -lm  -liconv 

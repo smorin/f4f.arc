@@ -1,0 +1,1 @@
+("5.0.2" ("8247d4d3fe1d8bba95acd78c6a5d4785eab8d080" . "6231ccdcb5a7a6c823c074fc965f64632136e420") (collects #"scheme" #"base.rkt") (collects #"mzlib" #"private" #"unit-compiletime.rkt") (collects #"mzlib" #"private" #"unit-syntax.rkt") (collects #"scheme" #"unit.rkt") (collects #"scheme" #"contract.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

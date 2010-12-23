@@ -1,0 +1,1 @@
+("5.0.2" ("46f6da9bef824cca8ed284ac1efe87fdbf61bf13" . "61f96d9377938bae9ab634c98541c55534b74cc0") (collects #"scheme" #"base.rkt") (collects #"mred" #"main.rkt") (collects #"scheme" #"class.rkt") (collects #"scheme" #"unit.rkt") (collects #"slideshow" #"sig.rkt") (collects #"slideshow" #"param.rkt") (collects #"slideshow" #"core.rkt") (collects #"texpict" #"mrpict.rkt"))

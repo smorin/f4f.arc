@@ -1,0 +1,1 @@
+("5.0.2" ("84c1060448d05f1a7f4d3f501fce1dee60be1c54" . "f65e09245fdfce2e1f742ed6693b6238649e2ee5") (collects #"swindle" #"base.rkt") (collects #"mzlib" #"private" #"dmhelp.rkt") (collects #"mzlib" #"list.rkt") (collects #"mzlib" #"etc.rkt") (collects #"mzlib" #"string.rkt") (collects #"scheme" #"base.rkt") (collects #"s-exp" #"lang" #"reader.rkt"))

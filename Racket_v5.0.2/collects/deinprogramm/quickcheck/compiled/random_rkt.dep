@@ -1,0 +1,1 @@
+("5.0.2" ("f41adabbed733ae41b3c3de72a80abc20064514a" . "84165e928e33c5e3fd7be7ee1455cda382b9b049") (collects #"scheme" #"base.rkt") (collects #"srfi" #"9.rkt") (collects #"scheme" #"include.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt") (ext collects #"deinprogramm" #"quickcheck" #"random.scm"))

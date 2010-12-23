@@ -1,0 +1,1 @@
+("5.0.2" ("6d3f6f442a82365552648d70a9cb5df0e6465cb3" . "bcfc1b34fbfd33da3ad35ec50cedc8b4258f3545") (collects #"typed-scheme" #"main.rkt") (collects #"file" #"tar.rkt") (collects #"typed-scheme" #"lang" #"reader.rkt"))

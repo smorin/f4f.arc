@@ -1,0 +1,1 @@
+("5.0.2" ("d7b6474ce0d905411761c69179705e2ffad2bc40" . "4865ea4fae594c26e670c3d9e64c4e16c6ffcd99") (collects #"scheme" #"base.rkt") (collects #"scheme" #"class.rkt") (collects #"mred" #"private" #"wxme" #"private.rkt") (collects #"mred" #"private" #"wxme" #"snip.rkt") (collects #"mred" #"private" #"wxme" #"snip-flags.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("495b8532fd3d4d68f4445fa45267afbefe5c5ee3" . "d21747e896db58e1dc1bf4b5536fc15271680ed2") (collects #"syntax" #"trusted-xforms.rkt") (collects #"scribble" #"doclang.rkt") (collects #"syntax" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

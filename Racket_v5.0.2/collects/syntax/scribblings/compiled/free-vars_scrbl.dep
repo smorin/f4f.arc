@@ -1,0 +1,1 @@
+("5.0.2" ("16191658fbfca3c8b50174e2dabd9116021858aa" . "499af9050f03b9c68d818fd5b2f01fb7b258739b") (collects #"syntax" #"free-vars.rkt") (collects #"scribble" #"doclang.rkt") (collects #"syntax" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

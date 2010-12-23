@@ -1,0 +1,1 @@
+("5.0.2" ("c074b8921767eb0375b72075c011720d49a62569" . "5a3a27f10e4b818b1215f336e0b3dd46345d0071") (collects #"syntax" #"module-reader.rkt") (collects #"datalog" #"parse.rkt") (collects #"datalog" #"private" #"compiler.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("d63903dfe1c11d5ed632d87b8240fa64913eef90" . "55e4db0c4a906a0acc8bb1f3e7e3a7ccfed91cb1") (collects #"slideshow" #"main.rkt") (collects #"slideshow" #"pict.rkt") (collects #"mred" #"mred.rkt") (collects #"slideshow" #"lang" #"reader.rkt"))

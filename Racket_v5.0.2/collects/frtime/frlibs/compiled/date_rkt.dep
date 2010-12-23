@@ -1,0 +1,1 @@
+("5.0.2" ("c8572b429d278343a7626033333e3a1290b86340" . "315973bac7462e924d6eeb5be31fd53f48dd1278") (collects #"scheme" #"main.rkt") (collects #"frtime" #"frlibs" #"list.rkt") (collects #"frtime" #"frtime.rkt") (collects #"scheme" #"lang" #"reader.rkt"))

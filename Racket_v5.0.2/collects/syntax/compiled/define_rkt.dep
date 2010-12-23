@@ -1,0 +1,1 @@
+("5.0.2" ("0c27fcdc52671e7f3cce8d60be0a5d1cdac620a3" . "cf9f054881e4add8a00c31323cb0030e5af01bbc") (collects #"scheme" #"base.rkt") (collects #"racket" #"private" #"norm-define.rkt"))

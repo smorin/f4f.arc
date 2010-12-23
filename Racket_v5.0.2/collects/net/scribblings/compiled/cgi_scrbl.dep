@@ -1,0 +1,1 @@
+("5.0.2" ("e450199d2d2346f2ce383f4066b6599a59282609" . "3dfc5300a4b16efba986f49d58848b37cb9d4c86") (collects #"net" #"cgi.rkt") (collects #"net" #"uri-codec.rkt") (collects #"net" #"cgi-unit.rkt") (collects #"net" #"cgi-sig.rkt") (collects #"scribble" #"doclang.rkt") (collects #"net" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

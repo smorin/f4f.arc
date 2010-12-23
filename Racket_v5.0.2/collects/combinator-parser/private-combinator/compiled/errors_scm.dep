@@ -1,0 +1,1 @@
+("5.0.2" ("8a4f1e981593b48c88a5439e584386a29f57b0b4" . "697a7442189b63e994805aa2caaba01ed53d7c67") (collects #"scheme" #"base.rkt") (collects #"combinator-parser" #"private-combinator" #"structs.scm") (collects #"combinator-parser" #"private-combinator" #"parser-sigs.rkt") (collects #"scheme" #"unit.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("4198069857849d17419107752fb2c9840bdd6995" . "d2ace1c3b8ae89cc4fd5873929049e8ac7fad88f") (collects #"racket" #"main.rkt") (collects #"web-server" #"stuffers" #"stuffer.rkt") (collects #"net" #"base64.rkt") (collects #"racket" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("cce83591276aa2eca56bba05f192c57c3fb29e23" . "6071333d5f22de5f632c5a3bb1d86eb4ddefab93") (collects #"scheme" #"base.rkt") (collects #"syntax" #"boundmap.rkt") (collects #"scheme" #"list.rkt") (collects #"syntax" #"kerncase.rkt") (collects #"syntax" #"strip-context.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

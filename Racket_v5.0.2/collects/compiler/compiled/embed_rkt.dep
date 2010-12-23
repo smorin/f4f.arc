@@ -1,0 +1,1 @@
+("5.0.2" ("2cfa16e86728d4875b791d93b06c9e402b5a07ac" . "8b468ffe272b0cfda27b7bbd12073bda11417f92") (collects #"racket" #"base.rkt") (collects #"scheme" #"unit.rkt") (collects #"scheme" #"contract.rkt") (collects #"compiler" #"sig.rkt") (collects #"compiler" #"embed-unit.rkt") (collects #"compiler" #"embed-sig.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

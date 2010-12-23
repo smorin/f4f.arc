@@ -1,0 +1,1 @@
+("5.0.2" ("a8b0cbb1547fc4775927a90af0df031af240c545" . "388d5eeaa3d6b8b7f43de4bfa966a3124c01c8ac") (collects #"racket" #"base.rkt") (collects #"scribble" #"comment-reader.rkt") (collects #"syntax" #"strip-context.rkt") (collects #"compiler" #"cm-accomplice.rkt") (collects #"scribble" #"manual.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

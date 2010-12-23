@@ -1,0 +1,1 @@
+("5.0.2" ("eef63ab91f250f3250d7ea66e425c24fb0acc89f" . "5a78d576fe7aaaf842f5eccda865df83d2cda21b") (collects #"syntax" #"zodiac.rkt") (collects #"scribble" #"doclang.rkt") (collects #"syntax" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

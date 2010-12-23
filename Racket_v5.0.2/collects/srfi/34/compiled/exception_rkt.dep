@@ -1,0 +1,1 @@
+("5.0.2" ("c5d970eaaedbed2050af313a7674ae3233e21bd6" . "ecfc34fa697e398fb9a877e7c9297701f9842ad7") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt"))

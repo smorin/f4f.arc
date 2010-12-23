@@ -1,0 +1,1 @@
+("5.0.2" ("6a16fc2fa2e251f2d74b79d9c3dfe50d1537d337" . "4bb74311d41ffa0ba7d31562ac0d31753cbb5ca1") (collects #"scheme" #"main.rkt") (collects #"htdp" #"big-draw.rkt") (collects #"htdp" #"draw-sig.rkt") (collects #"mzlib" #"unit.rkt") (collects #"scheme" #"lang" #"reader.rkt"))

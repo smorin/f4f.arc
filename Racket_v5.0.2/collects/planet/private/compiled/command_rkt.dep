@@ -1,0 +1,1 @@
+("5.0.2" ("65149a653c21702ea409d4923adcd5d3e063cb6a" . "94e761714bf89aaf9c40950ad570c878a440057a") (collects #"scheme" #"base.rkt") (collects #"planet" #"private" #"prefix-dispatcher.rkt") (collects #"scheme" #"cmdline.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

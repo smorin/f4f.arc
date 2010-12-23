@@ -1,0 +1,1 @@
+("5.0.2" ("d6796777afc012686180250d1710713b13ba9caa" . "86a7a403b3c8f2257bcf70109e19585981ce2ba4") (collects #"racket" #"async-channel.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribblings" #"reference" #"mz.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

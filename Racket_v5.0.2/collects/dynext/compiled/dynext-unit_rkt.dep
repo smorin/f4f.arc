@@ -1,0 +1,1 @@
+("5.0.2" ("8873d33c3e1e44ebed2c87e76eb8e0b28c670321" . "3679f4de5e859fcc6ae0466219b0f4b89ea77a9a") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"dynext" #"compile-unit.rkt") (collects #"dynext" #"link-unit.rkt") (collects #"dynext" #"file-unit.rkt"))

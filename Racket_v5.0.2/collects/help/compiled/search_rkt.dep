@@ -1,0 +1,1 @@
+("5.0.2" ("8bb9aa620fe3f8d580d21386b8f5a3da0aa66ad2" . "86e543f7c06b9191ca2762415aeb072ebcd3ca4a") (collects #"scheme" #"base.rkt") (collects #"setup" #"dirs.rkt") (collects #"net" #"sendurl.rkt") (collects #"net" #"uri-codec.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

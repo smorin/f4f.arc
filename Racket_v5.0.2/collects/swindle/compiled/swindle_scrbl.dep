@@ -1,0 +1,1 @@
+("5.0.2" ("bea5152b1ab5f466f5eb26c7eab740133dfab715" . "29d86e0f8e3535818446970d6a2e3dc85d85f0e6") (collects #"scribble" #"doclang.rkt") (collects #"scribble" #"manual.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

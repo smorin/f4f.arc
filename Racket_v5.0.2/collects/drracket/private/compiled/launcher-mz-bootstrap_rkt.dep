@@ -1,0 +1,1 @@
+("5.0.2" ("ea6adb3112f0010c87b1556a88635ac43f8ce249" . "019bed9afd17f8a064ead337dc6553ac0b476e80") (collects #"racket" #"base.rkt") (collects #"drracket" #"private" #"launcher-bootstrap.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

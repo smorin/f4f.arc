@@ -1,0 +1,1 @@
+("5.0.2" ("6234047f9f5e1e2a1ab9b052b70dcfd70e6792cf" . "3acfe446ed70893057d877a6991fca7acb0cba81") (collects #"syntax" #"flatten-begin.rkt") (collects #"scribble" #"doclang.rkt") (collects #"syntax" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("d72db2eeeedcf5a488bfc6cb6f596c98437afc9e" . "a10907ca347f139c6d254763435b94e13f527a75") (collects #"scheme" #"base.rkt") (collects #"scheme" #"unit.rkt") (collects #"net" #"cgi-sig.rkt") (collects #"net" #"cgi-unit.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

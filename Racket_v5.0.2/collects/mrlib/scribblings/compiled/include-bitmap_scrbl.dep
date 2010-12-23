@@ -1,0 +1,1 @@
+("5.0.2" ("05f80b36dc2ca106a3a1f3ea194b20fb8620e742" . "1ee43524bdb38049defa2520e1db93d50b76c8a8") (collects #"mrlib" #"include-bitmap.rkt") (collects #"scheme" #"runtime-path.rkt") (collects #"scheme" #"include.rkt") (collects #"scribble" #"doclang.rkt") (collects #"mrlib" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

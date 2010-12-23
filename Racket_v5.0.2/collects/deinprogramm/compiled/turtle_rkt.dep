@@ -1,0 +1,1 @@
+("5.0.2" ("86d921fd566ef5c83a635d1d902721c0e55a3c94" . "989779b77d161b73396f1bb917e25229b44cdba4") (collects #"scheme" #"main.rkt") (collects #"mzlib" #"math.rkt") (collects #"deinprogramm" #"image.rkt") (collects #"lang" #"private" #"imageeq.rkt") (collects #"deinprogramm" #"signature" #"signature-syntax.rkt") (collects #"scheme" #"lang" #"reader.rkt"))

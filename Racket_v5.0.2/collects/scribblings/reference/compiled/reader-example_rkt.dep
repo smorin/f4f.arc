@@ -1,0 +1,1 @@
+("5.0.2" ("1a73483b7ab54e5e7338b32e7868b79cf69082ce" . "22dbde3ff78bf8346f1a38f7f4c5fbe8d127958e") (collects #"racket" #"base.rkt") (collects #"scribble" #"struct.rkt") (collects #"scribble" #"decode.rkt") (collects #"scribble" #"manual.rkt") (collects #"scribble" #"scheme.rkt") (collects #"racket" #"class.rkt"))

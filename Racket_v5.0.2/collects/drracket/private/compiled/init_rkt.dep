@@ -1,0 +1,1 @@
+("5.0.2" ("e322e9607a9ff69baa2838603d58f56c83cf9904" . "f5e373a5a0f7d2e3d0352e68919002e7b79321ce") (collects #"racket" #"unit" #"lang.rkt") (collects #"string-constants" #"main.rkt") (collects #"drracket" #"private" #"drsig.rkt") (collects #"racket" #"gui" #"base.rkt") (collects #"racket" #"unit" #"lang" #"reader.rkt"))

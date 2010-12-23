@@ -1,0 +1,1 @@
+("5.0.2" ("ddda5c6a7d0030ce33ad7bab65710cb8c0c81b2c" . "1706c92d515995c505c70ffe67957e54a9af3785") (collects #"racket" #"unit-exptime.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribblings" #"reference" #"mz.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("0b1bff1a86b42350793c541e789a6f9ada48eae0" . "b9914e6349ff8ed3d214bb104c53925bbb7ae9ed") (collects #"racket" #"base.rkt") (collects #"racket" #"contract.rkt") (collects #"scribble" #"srcdoc.rkt") (collects #"file" #"private" #"octree-quantize.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt") (collects #"at-exp" #"lang" #"reader.rkt"))

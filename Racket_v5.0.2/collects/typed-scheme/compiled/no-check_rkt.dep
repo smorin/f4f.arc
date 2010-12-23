@@ -1,0 +1,1 @@
+("5.0.2" ("b14fa7d9136ffcbc559bebaa9be42af722902e9d" . "bf8656bcf790a2ddf20d214a5ca23e050f84ec69") (collects #"scheme" #"base.rkt") (collects #"syntax" #"parse.rkt") (collects #"syntax" #"struct.rkt") (collects #"typed-scheme" #"private" #"prims.rkt") (collects #"typed-scheme" #"private" #"base-types-extra.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

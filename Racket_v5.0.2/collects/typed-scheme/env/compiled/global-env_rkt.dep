@@ -1,0 +1,1 @@
+("5.0.2" ("80f4918f8e3d084fec7111763bb211fcde156c74" . "0511aabeba7ae8abd070ebe083288ec63ed05dcf") (collects #"scheme" #"base.rkt") (collects #"typed-scheme" #"utils" #"utils.rkt") (collects #"syntax" #"id-table.rkt") (collects #"typed-scheme" #"utils" #"tc-utils.rkt") (collects #"typed-scheme" #"types" #"utils.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

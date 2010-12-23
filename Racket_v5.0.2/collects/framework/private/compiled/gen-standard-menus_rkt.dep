@@ -1,0 +1,1 @@
+("5.0.2" ("4985b030361bc05347722ca94bdff134793ebca4" . "9c6b8575b3af608cab86943924ac568c89fab20a") (collects #"scheme" #"main.rkt") (collects #"scheme" #"pretty.rkt") (collects #"scheme" #"runtime-path.rkt") (collects #"framework" #"private" #"standard-menus-items.rkt") (collects #"scheme" #"lang" #"reader.rkt") (collects #"scribble" #"reader.rkt"))

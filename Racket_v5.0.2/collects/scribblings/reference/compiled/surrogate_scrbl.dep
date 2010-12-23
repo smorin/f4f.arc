@@ -1,0 +1,1 @@
+("5.0.2" ("d493a3f5cf6fce6b5d200bbaaa6e017ad58b75e4" . "b5f518ea33fe4c93b23be8e441739234f350378f") (collects #"racket" #"surrogate.rkt") (collects #"racket" #"class.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribblings" #"reference" #"mz.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

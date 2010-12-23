@@ -1,0 +1,1 @@
+("5.0.2" ("ca02552f92e1001f93d51dff1e39130bfac88bd8" . "89abe93b28e0f667cf4597be4fca5105415e5440") (collects #"racket" #"base.rkt") (collects #"racket" #"promise.rkt") (collects #"scribble" #"text" #"output.rkt") (collects #"scribble" #"text" #"syntax-utils.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("9ef6a43a37edcd08f5a0e05e1102435936a9b3af" . "258b4c8f034e75f592c339764105e1af44b336f7") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mzlib" #"list.rkt") (collects #"scheme" #"mpair.rkt") (collects #"mzlib" #"pconvert-prop.rkt") (collects #"mzlib" #"class.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("36cd0c72b22de895f0a73e6345743e25ac0b08fd" . "14ce2d40b68d3075c4bf94bfd661e0e89f016667") (collects #"racket" #"main.rkt") (collects #"scheme" #"stxparam.rkt") (collects #"racklog" #"unify.rkt") (collects #"racket" #"lang" #"reader.rkt"))

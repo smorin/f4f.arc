@@ -1,0 +1,1 @@
+("5.0.2" ("b0974301eb5d0be1f1786a32473ee05eafd65d54" . "bfb5ab41e89ec328542644227cef6d90336a0cd4") (collects #"scheme" #"mzscheme.rkt") (collects #"frtime" #"frtime-big.rkt"))

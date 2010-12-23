@@ -1,0 +1,1 @@
+("5.0.2" ("d892467fbfd7c2ada46aa38c08d961a0d2c1a461" . "773bad1ff6ef752d804f76afe3654c42c8bdfb12") (collects #"racket" #"base.rkt") (collects #"syntax" #"parse.rkt") (collects #"unstable" #"syntax.rkt") (collects #"unstable" #"private" #"class-iop-ct.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

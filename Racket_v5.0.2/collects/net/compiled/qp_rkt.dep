@@ -1,0 +1,1 @@
+("5.0.2" ("79115a0d583152bb749ab33088ecc8a908047c77" . "f6027f7d89a85465595703ecd7bbcabab2477ef9") (collects #"scheme" #"base.rkt") (collects #"mzlib" #"unit.rkt") (collects #"net" #"qp-sig.rkt") (collects #"net" #"qp-unit.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

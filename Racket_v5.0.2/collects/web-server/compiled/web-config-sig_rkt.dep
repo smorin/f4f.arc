@@ -1,0 +1,1 @@
+("5.0.2" ("63e06627e452ef53c7c86eee181082fbfee8b405" . "1b7a99dab468406b787955bf509c749913d58628") (collects #"racket" #"main.rkt") (collects #"web-server" #"private" #"util.rkt") (collects #"web-server" #"configuration" #"namespace.rkt") (collects #"web-server" #"configuration" #"configuration-table-structs.rkt") (collects #"racket" #"lang" #"reader.rkt"))

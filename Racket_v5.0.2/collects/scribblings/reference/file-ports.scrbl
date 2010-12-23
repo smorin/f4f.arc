@@ -1,0 +1,321 @@
+#lang scribble/doc
+@(require "mz.ss"
+          racket/file)
+
+@(begin
+  ;; ignore expressions at the top-level so that they don't print #<void>
+  (define-syntax ignore
+    (syntax-rules ()
+      [(_ expr) (define x expr)]))
+
+  ;; hacky?
+  (define file-eval
+   (lambda ()
+     (let ([the-eval (make-base-eval)])
+       (the-eval '(require (for-syntax racket/base)
+			   racket/file))
+       (the-eval '(define some-file (make-temporary-file)))
+       (the-eval '(define some-other-file (make-temporary-file)))
+       the-eval)))
+
+  (define-syntax file-examples
+    (syntax-rules ()
+      [(_ expr ...)
+       (let [(my-eval (file-eval))]
+	 (define (clean)
+	   (my-eval '(for [(i (list some-file some-other-file))]
+			  (when (file-exists? i)
+			    (delete-file i)))))
+	 (clean)
+	 (begin0
+	   (defexamples #:eval my-eval
+			expr ...)
+	   (clean)))]))
+
+  "")
+
+@title[#:tag "file-ports"]{File Ports}
+
+A port created by @racket[open-input-file], @racket[open-output-file],
+@racket[subprocess], and related functions is a @deftech{file-stream
+port}.  The initial input, output, and error ports in @exec{racket}
+are also file-stream ports. The @racket[file-stream-port?]  predicate
+recognizes file-stream ports.
+
+When an input or output file-stream port is created, it is placed into
+the management of the current custodian (see
+@secref["custodians"]).
+
+@defproc[(open-input-file [path path-string?]
+                          [#:mode mode-flag (or/c 'binary 'text) 'binary])
+         input-port?]{
+
+Opens the file specified by @racket[path] for input. The
+@racket[mode-flag] argument specifies how the file's bytes are
+translated on input:
+
+@itemize[
+
+ @item{@indexed-racket['binary] --- bytes are returned from the port
+ exactly as they are read from the file.}
+
+ @item{@indexed-racket['text] --- return and linefeed bytes (10 and
+ 13) as read from the file are filtered by the port in a platform
+ specific manner:
+
+  @itemize[
+
+  @item{@|AllUnix|: no filtering occurs.}
+
+  @item{Windows: a return-linefeed combination from a file is returned
+        by the port as a single linefeed; no filtering occurs for
+        return bytes that are not followed by a linefeed, or for a
+        linefeed that is not preceded by a return.}
+  ]}
+]
+
+Under Windows, @racket['text] mode works only with regular files;
+attempting to use @racket['text] with other kinds of files triggers an
+@racket[exn:fail:filesystem] exception.
+
+Otherwise, the file specified by @racket[path] need not be a regular
+file. It might a device that is connected through the filesystem, such
+as @filepath{aux} under Windows or @filepath{/dev/null} under Unix. In all
+cases, the port is buffered by default.
+
+The port produced by @racket[open-input-file] should be explicitly
+closed, either though @racket[close-input-port] or indirectly via
+@racket[custodian-shutdown-all], to release the OS-level file
+handle. The input port will not be closed automatically if it is
+otherwise available for garbage collection (see
+@secref["gc-model"]); a @tech{will} could be associated input port
+to close it more automatically (see @secref["willexecutor"]).
+
+A @tech{path} value that is the @tech{cleanse}d version of
+@racket[path] is used as the name of the opened port.
+
+@file-examples[
+;; put some text in a file
+(with-output-to-file some-file
+  (lambda () (printf "hello world")))
+(define in (open-input-file some-file))
+(read-string 11 in)
+(close-input-port in)
+]}
+
+@defproc[(open-output-file [path path-string?]
+                           [#:mode mode-flag (or/c 'binary 'text) 'binary]
+                           [#:exists exists-flag (or/c 'error 'append 'update 'can-update
+                                                       'replace 'truncate 
+                                                       'must-truncate 'truncate/replace) 'error])
+          output-port?]{
+
+Opens the file specified by @racket[path] for output. The
+@racket[mode-flag] argument specifies how bytes written to the port
+are translated when written to the file:
+
+@itemize[
+
+ @item{@racket['binary] --- bytes are written to the file exactly
+ as written to the port.}
+
+ @item{@racket['text] --- under Windows, a linefeed byte (10) written
+ to the port is translated to a return-linefeed combination in the
+ file; no filtering occurs for returns.}
+
+]
+
+Under Windows, @racket['text] mode works only with regular files;
+attempting to use @racket['text] with other kinds of files triggers an
+@racket[exn:fail:filesystem] exception.
+
+The @racket[exists-flag] argument specifies how to handle/require
+files that already exist:
+
+@itemize[
+
+ @item{@indexed-racket['error] --- raise @racket[exn:fail:filesystem]
+       if the file exists.}
+
+ @item{@indexed-racket['replace] --- remove the old file, if it
+       exists, and write a new one.}
+
+ @item{@indexed-racket['truncate] --- remove all old data, if the file
+       exists.}
+
+ @item{@indexed-racket['must-truncate] --- remove all old data in an
+       existing file; if the file does not exist, the
+       @exnraise[exn:fail:filesystem].}
+
+ @item{@indexed-racket['truncate/replace] --- try @racket['truncate];
+       if it fails (perhaps due to file permissions), try
+       @racket['replace].}
+
+ @item{@indexed-racket['update] --- open an existing file without
+       truncating it; if the file does not exist, the
+       @exnraise[exn:fail:filesystem]. Use @racket[file-position]
+       to change the current read/write position.}
+
+ @item{@indexed-racket['can-update] --- open an existing file without
+       truncating it, or create the file if it does not exist.}
+
+ @item{@indexed-racket['append] --- append to the end of the file,
+       whether it already exists or not; under Windows,
+       @racket['append] is equivalent to @racket['update], except that
+       the file is not required to exist, and the file position is
+       immediately set to the end of the file after opening it.}
+
+]
+
+The file specified by @racket[path] need not be a regular file. It
+might a device that is connected through the filesystem, such as
+@filepath{aux} under Windows or @filepath{/dev/null} under Unix. The output
+port is block-buffered by default, unless the file corresponds to a
+terminal, in which case is it line buffered bu default.
+
+The port produced by @racket[open-output-port] should be explicitly
+closed, either though @racket[close-output-port] or indirectly via
+@racket[custodian-shutdown-all], to release the OS-level file
+handle. The output port will not be closed automatically if it is
+otherwise available for garbage collection (see
+@secref["gc-model"]); a @tech{will} could be associated input port
+to close it more automatically (see @secref["willexecutor"]).
+
+A @tech{path} value that is the @tech{cleanse}d version of
+@racket[path] is used as the name of the opened port.
+
+@file-examples[
+(define out (open-output-file some-file))
+(write "hello world" out)
+(close-output-port out)
+]}
+
+@defproc[(open-input-output-file [path path-string?]
+                           [#:mode mode-flag (or/c 'binary 'text) 'binary]
+                           [#:exists exists-flag (or/c 'error 'append 'update
+                                                       'replace 'truncate 'truncate/replace) 'error])
+          (values input-port? output-port?)]{
+
+Like @racket[open-output-file], but producing two values: an input
+port and an output port. The two ports are connected in that they
+share the underlying file device. This procedure is intended for use
+with special devices that can be opened by only one process, such as
+@filepath{COM1} in Windows. For regular files, sharing the device can be
+confusing. For example, using one port does not automatically flush
+the other port's buffer, and reading or writing in one port moves the
+file position (if any) for the other port. For regular files, use
+separate @racket[open-input-file] and @racket[open-output-file] calls
+to avoid confusion.}
+
+@defproc[(call-with-input-file [path path-string?]
+                               [proc (input-port? . -> . any)]
+                               [#:mode mode-flag (or/c 'binary 'text) 'binary])
+         any]{
+Calls @racket[open-input-file] with the @racket[path] and
+@racket[mode-flag] arguments, and passes the resulting port
+to @racket[proc]. The result of @racket[proc] is the result of the
+@racket[call-with-input-file] call, but the newly opened port is closed
+when @racket[thunk] return.
+
+@file-examples[
+(with-output-to-file some-file
+  (lambda () (printf "text in a file")))
+(call-with-input-file some-file
+  (lambda (in) (read-string 15 in)))
+]}
+
+@defproc[(call-with-output-file [path path-string?]
+                                [proc (output-port? . -> . any)]
+                                [#:mode mode-flag (or/c 'binary 'text) 'binary]
+                                [#:exists exists-flag (or/c 'error 'append 'update
+                                                            'replace 'truncate 'truncate/replace) 'error])
+         any]{
+Analogous to @racket[call-with-input-file], but passing @racket[path],
+@racket[mode-flag] and @racket[exists-flag] to
+@racket[open-output-file].
+
+@file-examples[
+(call-with-output-file some-file
+  (lambda (out)
+    (write 'hello out)))
+(call-with-input-file some-file
+  (lambda (in)
+    (read-string 5 in)))
+]}
+
+@defproc[(call-with-input-file* [path path-string?]
+                                [proc (input-port? . -> . any)]
+                                [#:mode mode-flag (or/c 'binary 'text) 'binary])
+         any]{
+Like @racket[call-with-input-file], but the newly opened port is
+closed whenever control escapes the dynamic extent of the
+@racket[call-with-input-file*] call, whether through @racket[proc]'s
+return, a continuation application, or a prompt-based abort.}
+
+@defproc[(call-with-output-file* [path path-string?]
+                                 [proc (output-port? . -> . any)]
+                                 [#:mode mode-flag (or/c 'binary 'text) 'binary]
+                                 [#:exists exists-flag (or/c 'error 'append 'update
+                                                             'replace 'truncate 'truncate/replace) 'error])
+         any]{
+Like @racket[call-with-output-file], but the newly opened port is
+closed whenever control escapes the dynamic extent of the
+@racket[call-with-output-file*] call, whether through @racket[proc]'s
+return, a continuation application, or a prompt-based abort.}
+
+@defproc[(with-input-from-file [path path-string?]
+                               [thunk (-> any)]
+                               [#:mode mode-flag (or/c 'binary 'text) 'binary])
+         any]{
+Like @racket[call-with-input-file*], but instead of passing the newly
+opened port to the given procedure argument, the port is installed as
+the current input port (see @racket[current-input-port]) using
+@racket[parameterize] around the call to @racket[thunk].
+
+@file-examples[
+(with-output-to-file some-file
+  (lambda () (printf "hello")))
+(with-input-from-file some-file
+  (lambda () (read-string 5)))
+]}
+
+@defproc[(with-output-to-file [path path-string?]
+                              [thunk (-> any)]
+                              [#:mode mode-flag (or/c 'binary 'text) 'binary]
+                              [#:exists exists-flag (or/c 'error 'append 'update
+                                                          'replace 'truncate 'truncate/replace) 'error])
+         any]{
+Like @racket[call-with-output-file*], but instead of passing the newly
+opened port to the given procedure argument, the port is installed as
+the current output port (see @racket[current-output-port]) using
+@racket[parameterize] around the call to @racket[thunk].
+
+@file-examples[
+(with-output-to-file some-file
+  (lambda () (printf "hello")))
+(with-input-from-file some-file
+  (lambda () (read-string 5)))
+]}
+
+@defproc[(port-file-identity [port file-stream-port?]) exact-positive-integer?]{
+
+@index['("inode")]{Returns} a number that represents
+the identity of the device and file read or written by
+@racket[port]. For two ports whose open times overlap, the
+result of @racket[port-file-identity] is the same for both ports if
+and only if the ports access the same device and file. For ports whose
+open times do not overlap, no guarantee can be provided for the port
+identities (even if the ports actually access the same file)---except
+as can be inferred through relationships with other ports. If
+@racket[port] is closed, the @exnraise[exn:fail].  Under
+Windows 95, 98, and Me, if @racket[port] is connected to a
+pipe instead of a file, the @exnraise[exn:fail:filesystem].
+
+@file-examples[
+(define file1 (open-output-file some-file))
+(define file2 (open-output-file some-other-file))
+(port-file-identity file1)
+(port-file-identity file2)
+(close-output-port file1)
+(close-output-port file2)
+]}

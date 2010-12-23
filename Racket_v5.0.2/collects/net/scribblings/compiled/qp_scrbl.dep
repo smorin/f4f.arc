@@ -1,0 +1,1 @@
+("5.0.2" ("12d9cc64573be6653b55abd51945f4e668c6527d" . "e1e72c28d3ac1cfed92ede21a28c8eb5bc71fdb3") (collects #"net" #"qp.rkt") (collects #"net" #"qp-unit.rkt") (collects #"net" #"qp-sig.rkt") (collects #"scribble" #"doclang.rkt") (collects #"net" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

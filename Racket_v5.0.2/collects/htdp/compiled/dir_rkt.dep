@@ -1,0 +1,1 @@
+("5.0.2" ("b6c6d31c9b6a8ae5ab086ae6c021a492379be529" . "09ac7e4df4276ac96045eaf787936db03f67a424") (collects #"scheme" #"main.rkt") (collects #"htdp" #"error.rkt") (collects #"lang" #"prim.rkt") (collects #"scheme" #"base.rkt") (collects #"scheme" #"lang" #"reader.rkt"))

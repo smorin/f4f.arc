@@ -1,0 +1,1 @@
+("5.0.2" ("449ceda356cb65f401e57283220c62851d700743" . "f087f6cfd1777d0c096cf5426d0c53f51f457e84") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"htdp" #"hangman.rkt"))

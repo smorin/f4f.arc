@@ -1,0 +1,1 @@
+("5.0.2" ("4228c197630eecedd493c718ca83ba4b1bfc0dd7" . "1f0cff539fe440b141fd19e3d6536a4e52b19173") (collects #"scheme" #"base.rkt") (collects #"rnrs" #"enums-6.rkt") (collects #"scheme" #"mpair.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

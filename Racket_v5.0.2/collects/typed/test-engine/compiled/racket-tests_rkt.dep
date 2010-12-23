@@ -1,0 +1,1 @@
+("5.0.2" ("70df4c57966c3cd31c7107263c38a15d2ed79150" . "3eb21150b4d1cf0281fd60b85ee7e45cc8382ddb") (collects #"scheme" #"base.rkt") (collects #"test-engine" #"racket-tests.rkt") (collects #"typed" #"test-engine" #"type-env-ext.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

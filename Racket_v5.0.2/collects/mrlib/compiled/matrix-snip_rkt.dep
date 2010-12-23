@@ -1,0 +1,1 @@
+("5.0.2" ("b8a83d77696f01bbb000feecf80a7c2ff7199010" . "f5fabc87d2ee56c983ccdc221d9931c67153c320") (collects #"scheme" #"base.rkt") (collects #"scheme" #"class.rkt") (collects #"mrlib" #"cache-image-snip.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

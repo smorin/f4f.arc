@@ -1,0 +1,1 @@
+("5.0.2" ("851054c771badd507a221cc63d4d2ac0318dbeda" . "1d70b88527ea8da6be9d352859541bc57f50e1b3") (collects #"scheme" #"base.rkt") (collects #"scheme" #"match.rkt") (collects #"scheme" #"contract.rkt") (collects #"planet" #"cachepath.rkt") (collects #"syntax" #"modread.rkt") (collects #"setup" #"infotab" #"lang" #"reader.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

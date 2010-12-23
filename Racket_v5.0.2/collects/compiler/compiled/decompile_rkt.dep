@@ -1,0 +1,1 @@
+("5.0.2" ("705bb3180225c92586b49f62e0a3fe07576237ae" . "446abbc513f5a8339f8943e7883ac70d4c26dfb5") (collects #"scheme" #"base.rkt") (collects #"compiler" #"zo-parse.rkt") (collects #"syntax" #"modcollapse.rkt") (collects #"scheme" #"port.rkt") (collects #"scheme" #"match.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

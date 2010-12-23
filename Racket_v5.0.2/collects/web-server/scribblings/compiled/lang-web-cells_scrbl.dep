@@ -1,0 +1,1 @@
+("5.0.2" ("72d94486d0e32fa0b84d8f25bbd84abcdada12eb" . "8cd55f17b3d55f45ed0e6635dc231d7b1ef7a564") (collects #"web-server" #"lang" #"web-cells.rkt") (collects #"scribble" #"doclang.rkt") (collects #"web-server" #"scribblings" #"web-server.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))
