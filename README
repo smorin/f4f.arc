@@ -2,5 +2,9 @@
 
 I am building a site in arc for founders4founders.org
 
+
+Use screen to connect with for server launch with access to the REPL
+ssh [username]@[remote host name] -t screen -R [sessionname/PID]
+
 Let's see how it goes!
 -Steve Morin
