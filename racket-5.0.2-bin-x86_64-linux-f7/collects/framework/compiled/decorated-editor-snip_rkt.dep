@@ -1,0 +1,1 @@
+("5.0.2" ("3887307111262d3933142957b2a622a0647a28f3" . "b783898c81cc110d619ad417d0fde505ce5a1e9f") (collects #"scheme" #"base.rkt") (collects #"framework" #"private" #"decorated-editor-snip.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("7ca433aa1afa37e0ecd36bcea495b99c29886c5b" . "a2622d4031b41752ec0a94383fa4d331632ab874") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"parser-tools" #"private-yacc" #"grammar.rkt") (collects #"parser-tools" #"private-yacc" #"graph.rkt") (collects #"mzlib" #"list.rkt") (collects #"mzlib" #"class.rkt"))

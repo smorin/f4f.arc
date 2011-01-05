@@ -1,0 +1,1 @@
+("5.0.2" ("887ac1ab29bd0cb2d6754111b510a68614969128" . "88c8d862f49484d39c9a2b1a310bbecbd16f62f1") (collects #"scheme" #"base.rkt") (collects #"scheme" #"sandbox.rkt") (collects #"mzscheme" #"main.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

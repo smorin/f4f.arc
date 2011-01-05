@@ -1,0 +1,1 @@
+("5.0.2" ("ad3c05cc1d3298184647c933238743476882ff8e" . "7aaa1973995c329086af1085446bc30086a7d70d") (collects #"net" #"nntp.rkt") (collects #"net" #"nntp-unit.rkt") (collects #"net" #"nntp-sig.rkt") (collects #"scribble" #"doclang.rkt") (collects #"net" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

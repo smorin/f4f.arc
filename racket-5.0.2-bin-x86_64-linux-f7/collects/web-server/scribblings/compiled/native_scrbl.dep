@@ -1,0 +1,1 @@
+("5.0.2" ("532ed25c64f2cd3a0c7ca75d3d9f4cd1c2f9fe3a" . "c0658fd310fdec122ca9b5ba6cf038a25b136fb9") (collects #"racket" #"main.rkt") (collects #"web-server" #"lang" #"native.rkt") (collects #"web-server" #"lang" #"abort-resume.rkt") (collects #"scribble" #"doclang.rkt") (collects #"web-server" #"scribblings" #"web-server.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

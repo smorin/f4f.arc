@@ -1,0 +1,1 @@
+("5.0.2" ("58bc26484cd4906520285266c22d379634fcad23" . "88c729d04bd7873cd985126148c09c4a04885573") (collects #"syntax" #"path-spec.rkt") (collects #"scribble" #"doclang.rkt") (collects #"syntax" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

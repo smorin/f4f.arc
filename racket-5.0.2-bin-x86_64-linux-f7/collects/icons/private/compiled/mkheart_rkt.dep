@@ -1,0 +1,1 @@
+("5.0.2" ("fdf0cb83aa1de35cc6ac9f4053ed85ac1889ef38" . "f0bb44e465c84d0a42da5282657b086f4d85611d") (collects #"racket" #"gui.rkt") (collects #"mrlib" #"private" #"image-core-bitmap.rkt") (collects #"racket" #"gui" #"lang" #"reader.rkt"))

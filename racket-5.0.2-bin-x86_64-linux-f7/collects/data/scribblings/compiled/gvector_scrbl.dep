@@ -1,0 +1,1 @@
+("5.0.2" ("23327adbb00e8e024263099eab4db4569ac870e3" . "17d0ec6f13fe8846a7e70b99e5b61fff65bceb01") (collects #"data" #"gvector.rkt") (collects #"racket" #"contract.rkt") (collects #"racket" #"dict.rkt") (collects #"racket" #"base.rkt") (collects #"scribble" #"manual" #"lang.rkt") (collects #"scribble" #"eval.rkt") (collects #"scribble" #"manual" #"lang" #"reader.rkt"))

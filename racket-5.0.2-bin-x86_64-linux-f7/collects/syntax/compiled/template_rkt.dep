@@ -1,0 +1,1 @@
+("5.0.2" ("d33bbc44a5a9ec842d782bcdcf4852aca8850e9e" . "c323e6daa5197066aeb45093ce315cbe028ade54") (collects #"scheme" #"base.rkt") (collects #"syntax" #"private" #"template-runtime.rkt") (collects #"syntax" #"stx.rkt") (collects #"unstable" #"struct.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

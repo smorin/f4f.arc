@@ -1,0 +1,1 @@
+("5.0.2" ("c50cce775aea2aaecd2d893e275811bf13c91a3b" . "118a00895adc7cafaa044ec96b3412be1807030e") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"plot" #"math.rkt") (collects #"plot" #"fit-low-level.rkt"))

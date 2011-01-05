@@ -1,0 +1,1 @@
+("5.0.2" ("ec885e3275728bf8585a7aa73fdb12503c0496a0" . "85433dd27c87da6d54ac37d31ff35f08e1e4654f") (collects #"scheme" #"base.rkt") (collects #"texpict" #"mrpict.rkt") (collects #"texpict" #"utils.rkt") (collects #"scheme" #"gui" #"base.rkt") (collects #"scheme" #"class.rkt"))

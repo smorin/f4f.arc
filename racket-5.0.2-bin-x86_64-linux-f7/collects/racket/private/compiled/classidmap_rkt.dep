@@ -1,0 +1,1 @@
+("5.0.2" ("5d214f7450e805e96fd4345291425708d0cc514b" . "a5ae91b28c239e9051b8f9db6da001b7f42ca015") (collects #"scheme" #"base.rkt") (collects #"racket" #"private" #"class-events.rkt") (collects #"racket" #"base.rkt") (collects #"syntax" #"stx.rkt") (collects #"racket" #"private" #"define-struct.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

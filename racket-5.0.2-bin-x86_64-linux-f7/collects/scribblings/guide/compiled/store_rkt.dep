@@ -1,0 +1,1 @@
+("5.0.2" ("d8ad13e6768fe814d1690fe71ccfb7a457b3fb86" . "44ad253f6e6ad3acd62580d22e928187242416ce") (collects #"racket" #"main.rkt") (collects #"scribblings" #"guide" #"dollar-racket.rkt") (collects #"reader" #"lang" #"reader.rkt"))

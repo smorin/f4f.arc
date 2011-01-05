@@ -1,0 +1,1 @@
+("5.0.2" ("7e5b1ca4756bef90fd018fba6f1ed276f316511b" . "0c72ec8fdc9c7d613535109d551ae0d2edec76bf") (collects #"racket" #"main.rkt") (collects #"web-server" #"dispatch" #"coercion.rkt") (collects #"web-server" #"dispatch" #"bidi-match.rkt") (collects #"racket" #"lang" #"reader.rkt"))

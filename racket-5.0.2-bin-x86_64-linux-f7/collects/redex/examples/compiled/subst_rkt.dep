@@ -1,0 +1,1 @@
+("5.0.2" ("e971623619d9bcfc6300008a710dc77fbd8e1a9b" . "1ddd9f5f62bb36fc1edbef22600067a2338d8860") (collects #"scheme" #"main.rkt") (collects #"redex" #"reduction-semantics.rkt") (collects #"scheme" #"lang" #"reader.rkt"))

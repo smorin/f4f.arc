@@ -1,0 +1,1 @@
+("5.0.2" ("7d15174757178810568942c965ca97bfd4cd4e07" . "9196b56f07cbd5c0ab9be2afaac45ad75957ddc2") (collects #"scheme" #"mzscheme.rkt") (collects #"lang" #"plt-pretty-big-text.rkt") (collects #"mred" #"main.rkt") (collects #"lang" #"private" #"imageeq.rkt"))

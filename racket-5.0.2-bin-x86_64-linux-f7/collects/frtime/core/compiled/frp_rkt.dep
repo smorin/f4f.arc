@@ -1,0 +1,1 @@
+("5.0.2" ("d10304c40f985ebbff4afaf29c83b762214f0971" . "f37a85a8a7fc7c3796057559f4a3104bf915d7c4") (collects #"scheme" #"main.rkt") (collects #"mzlib" #"etc.rkt") (collects #"frtime" #"core" #"contract.rkt") (collects #"frtime" #"core" #"erl.rkt") (collects #"frtime" #"core" #"heap.rkt") (collects #"scheme" #"lang" #"reader.rkt"))

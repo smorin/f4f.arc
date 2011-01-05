@@ -1,0 +1,1 @@
+("5.0.2" ("b8c53b438f619616b22b5ae893dd487b036635a4" . "7d19643b363243fb78f159680ade3469832298d4") (collects #"scribble" #"doclang.rkt") (collects #"scribblings" #"reference" #"mz.rkt") (collects #"scribblings" #"reference" #"unix-paths.scrbl") (collects #"scribblings" #"reference" #"windows-paths.scrbl") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

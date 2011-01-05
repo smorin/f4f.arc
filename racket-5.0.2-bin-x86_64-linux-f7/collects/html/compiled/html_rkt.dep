@@ -1,0 +1,1 @@
+("5.0.2" ("8cb40ada7701a43837cd6ed37fca9e05e1aef266" . "d11913e0596eeccc12003aa256444266ba9d842e") (collects #"racket" #"main.rkt") (collects #"html" #"html-structs.rkt") (collects #"html" #"html-spec.rkt") (collects #"html" #"sgml-reader.rkt") (collects #"xml" #"main.rkt") (collects #"racket" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("fedbe6e0bfc720a11d620f88a1455e9decc3e1dd" . "8b42e6639e513d6155ec0893307a34597e3b303a") (collects #"2htdp" #"private" #"syn-aux-aux.rkt") (collects #"racket" #"main.rkt") (collects #"lang" #"prim.rkt") (collects #"syntax" #"parse.rkt") (collects #"racket" #"lang" #"reader.rkt"))

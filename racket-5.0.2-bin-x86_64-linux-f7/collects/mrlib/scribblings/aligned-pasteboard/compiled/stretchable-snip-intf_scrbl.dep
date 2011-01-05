@@ -1,0 +1,1 @@
+("5.0.2" ("a53008510908288056dec5e91d1849bbd6a038a1" . "8e11216c7faf90c3241df7f5540c90df53b6bab4") (collects #"scribble" #"doclang.rkt") (collects #"mrlib" #"scribblings" #"aligned-pasteboard" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

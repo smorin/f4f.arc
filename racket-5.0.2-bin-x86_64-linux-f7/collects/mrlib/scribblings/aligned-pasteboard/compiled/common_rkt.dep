@@ -1,0 +1,1 @@
+("5.0.2" ("611cc2b92f5df94db8930b0e7d8008107a179dd5" . "be7531c58fa4cd850e8bb18f6f39e8411ed258d0") (collects #"mrlib" #"aligned-pasteboard.rkt") (collects #"scheme" #"base.rkt") (collects #"mrlib" #"scribblings" #"common.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

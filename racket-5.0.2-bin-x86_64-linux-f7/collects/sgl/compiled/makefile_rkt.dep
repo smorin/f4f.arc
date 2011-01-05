@@ -1,0 +1,1 @@
+("5.0.2" ("8ca99058be234aeffd8cefc5b5fd84980cf7b3b4" . "4b4ae45aacf02c350a26f60285213dce5b06c8aa") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"make" #"main.rkt") (collects #"setup" #"dirs.rkt") (collects #"sgl" #"make-gl-info.rkt") (collects #"mzscheme" #"lang" #"reader.rkt"))

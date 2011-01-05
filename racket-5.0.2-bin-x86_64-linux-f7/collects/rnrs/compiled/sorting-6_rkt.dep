@@ -1,0 +1,1 @@
+("5.0.2" ("d1b084f02cfcb6f900c53140ed5d2398540a965b" . "e733b638f8a91397d8bf999612af5a79648fdece") (collects #"scheme" #"base.rkt") (collects #"scheme" #"mpair.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

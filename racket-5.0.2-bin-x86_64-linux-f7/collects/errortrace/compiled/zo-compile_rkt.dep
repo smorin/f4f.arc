@@ -1,0 +1,1 @@
+("5.0.2" ("978db08c0415c1efcd8689ae4bee513772f329f6" . "55209e021b318f3277056dc568266c7eac8e0620") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"errortrace" #"errortrace-lib.rkt"))

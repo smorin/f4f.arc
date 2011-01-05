@@ -1,0 +1,1 @@
+("5.0.2" ("a53341bfb9123f2664230ad977225537dbdb5fa7" . "a0975041ca2159292f4f3b2f69e7df881521e0cd") (collects #"scheme" #"base.rkt") (collects #"scheme" #"system.rkt") (collects #"scheme" #"port.rkt") (collects #"scheme" #"promise.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

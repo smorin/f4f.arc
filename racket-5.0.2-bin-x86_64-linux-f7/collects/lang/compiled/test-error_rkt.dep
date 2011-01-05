@@ -1,0 +1,1 @@
+("5.0.2" ("f10084ae80fe116578395aa76780616e18cec9c3" . "68da97bc1ef70a07e37c7b15b8c27fab8d2555e7") (collects #"lang" #"htdp-beginner.rkt") (collects #"lang" #"htdp-beginner-reader.rkt"))

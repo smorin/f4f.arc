@@ -1,0 +1,1 @@
+("5.0.2" ("891f281728e84919ca07e91cb76a7704801cb234" . "008d5db75d9d7e5c452dea1f4d4f93fe78573918") (collects #"scheme" #"base.rkt") (collects #"syntax" #"stx.rkt") (collects #"syntax" #"kerncase.rkt") (collects #"syntax" #"struct.rkt") (collects #"scheme" #"include.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt") (ext collects #"mzlib" #"private" #"shared-body.rkt"))

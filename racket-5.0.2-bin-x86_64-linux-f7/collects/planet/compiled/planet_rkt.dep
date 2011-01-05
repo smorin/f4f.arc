@@ -1,0 +1,1 @@
+("5.0.2" ("b56e31dadbb8bd1d44f0f8e418738193d849998a" . "730c55de93e7d1ced949cfc99ee690ebf844c354") (collects #"scheme" #"base.rkt") (collects #"planet" #"private" #"cmdline-tool.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("293f8684842aacf738c96a702bf8443bbc304c30" . "c90440fbe811f1833276a4e1393940347348299d") (collects #"racket" #"gui.rkt") (collects #"setup" #"getinfo.rkt") (collects #"mrlib" #"bitmap-label.rkt") (collects #"games" #"show-help.rkt") (collects #"racket" #"gui" #"lang" #"reader.rkt"))

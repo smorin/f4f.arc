@@ -1,0 +1,1 @@
+("5.0.2" ("e7eefa5cd69fe4b783d55df2f055ec1e33408721" . "17aa2ab99e8802623b13aea75e33b96ecc746e04") (collects #"scheme" #"base.rkt") (collects #"string-constants" #"string-constant.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

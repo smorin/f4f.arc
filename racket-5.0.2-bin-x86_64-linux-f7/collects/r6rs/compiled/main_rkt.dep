@@ -1,0 +1,1 @@
+("5.0.2" ("b555601e7f6194189f2cdaa5a81c4ea91c7392f2" . "92deefe61e8f497f74c887d3dd25710088c92ae3") (collects #"scheme" #"base.rkt") (collects #"syntax" #"kerncase.rkt") (collects #"r6rs" #"private" #"parse-ref.rkt") (collects #"scheme" #"provide-transform.rkt") (collects #"r6rs" #"private" #"no-set.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

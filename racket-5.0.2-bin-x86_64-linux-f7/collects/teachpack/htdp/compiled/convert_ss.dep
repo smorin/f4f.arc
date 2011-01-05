@@ -1,0 +1,1 @@
+("5.0.2" ("9e97fc9c5cabc126b35de530e01a5dfc86ba1e6e" . "15b5f39cec75c627e6d7903b5eb3319c8bc87b2c") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"htdp" #"convert.rkt") (collects #"mzscheme" #"lang" #"reader.rkt"))

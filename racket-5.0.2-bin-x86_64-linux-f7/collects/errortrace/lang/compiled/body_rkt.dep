@@ -1,0 +1,1 @@
+("5.0.2" ("37a1f074a8eacab0a68201714fd7ab0646a9b76a" . "5cd7b33761e2e0a49af8128511139fc4acaa336d") (collects #"racket" #"base.rkt") (collects #"syntax" #"strip-context.rkt") (collects #"errortrace" #"errortrace-lib.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

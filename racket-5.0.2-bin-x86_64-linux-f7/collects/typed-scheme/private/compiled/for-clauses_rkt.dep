@@ -1,0 +1,1 @@
+("5.0.2" ("deef353c12c3b52464a4df1366ca47aa051c3165" . "6338d62338a9cb6f40e35bfd09d42c2f3f509987") (collects #"racket" #"base.rkt") (collects #"typed-scheme" #"private" #"base-types.rkt") (collects #"syntax" #"parse.rkt") (collects #"typed-scheme" #"private" #"annotate-classes.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

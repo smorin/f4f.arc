@@ -1,0 +1,1 @@
+("5.0.2" ("312dc85cb8fa37ca5d8aa261633ef831788416e7" . "bd27e02f404682da9e6964dfd8a4b650b875f47a") (collects #"racket" #"base.rkt") (collects #"mrlib" #"image-core.rkt") (collects #"2htdp" #"private" #"image-more.rkt") (collects #"2htdp" #"private" #"img-err.rkt") (collects #"lang" #"prim.rkt") (collects #"htdp" #"error.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

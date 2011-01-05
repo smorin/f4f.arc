@@ -1,0 +1,1 @@
+("5.0.2" ("99fa5c3253e2f6c193dc25e8c3ecfaa6c590a006" . "1758c310e26d78f82d9b74835d9d51752a47df21") (collects #"racket" #"unit" #"lang.rkt") (collects #"scheme" #"tcp.rkt") (collects #"net" #"imap-sig.rkt") (collects #"net" #"private" #"rbtree.rkt") (collects #"scheme" #"unit" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("c26d3d3f65d0c4262fbe0bd70acbedee4c1476b1" . "5082daf728a85103fb30b680f83e238c524851b7") (collects #"r6rs" #"private" #"conds.rkt") (collects #"r6rs" #"main.rkt") (collects #"r6rs" #"private" #"prelims.rkt") (collects #"r6rs" #"lang" #"reader.rkt"))

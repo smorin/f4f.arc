@@ -1,0 +1,1 @@
+("5.0.2" ("914f467aea8b66e7a615fc1af0596cfae85f0f7a" . "9944ec23f40817abaa25eb6a628f68845269557c") (collects #"scheme" #"main.rkt") (collects #"scribblings" #"guide" #"death-list-5.rkt") (collects #"scheme" #"lang" #"reader.rkt"))

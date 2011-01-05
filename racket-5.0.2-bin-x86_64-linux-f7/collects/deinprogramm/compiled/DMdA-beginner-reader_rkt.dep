@@ -1,0 +1,1 @@
+("5.0.2" ("f8771ecfb83f8d5f7c52d79dddd661d5e05112eb" . "5a7df1032d1e8c1650530f525bed83b22ff43789") (collects #"scheme" #"base.rkt") (collects #"deinprogramm" #"DMdA-reader.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

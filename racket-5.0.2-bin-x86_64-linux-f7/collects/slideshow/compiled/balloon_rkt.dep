@@ -1,0 +1,1 @@
+("5.0.2" ("a238f87a8d408fd82040ad841511e8c2186f4619" . "b339fd33c1b7b8e61f2c3001250583cf9529822d") (collects #"scheme" #"base.rkt") (collects #"texpict" #"balloon.rkt"))

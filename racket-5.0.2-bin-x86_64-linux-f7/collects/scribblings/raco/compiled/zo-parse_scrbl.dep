@@ -1,0 +1,1 @@
+("5.0.2" ("5bb4a37335c3bfc3dae807c6569410a2a0cad65d" . "6caa9268cbf8a31b9948395dc199c6a69166fa89") (collects #"racket" #"base.rkt") (collects #"racket" #"contract.rkt") (collects #"compiler" #"zo-parse.rkt") (collects #"scribble" #"doclang.rkt") (collects #"scribble" #"manual.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

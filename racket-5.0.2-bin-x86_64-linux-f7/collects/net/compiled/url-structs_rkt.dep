@@ -1,0 +1,1 @@
+("5.0.2" ("4030060621686c570428b302e3dbb3e4a50ab224" . "887c0fd69d84a82f2565f72f684f767146b50784") (collects #"scheme" #"base.rkt") (collects #"scheme" #"contract.rkt") (collects #"scheme" #"serialize.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

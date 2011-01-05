@@ -1,0 +1,1 @@
+("5.0.2" ("bdc55302856adfeeceb9c600151bcddbc73a4a1a" . "5736468d32db7ef3007b5a9130d27d630ddfffda") (collects #"scheme" #"base.rkt") (collects #"scheme" #"unit.rkt") (collects #"net" #"mime-sig.rkt") (collects #"net" #"mime-unit.rkt") (collects #"net" #"qp.rkt") (collects #"net" #"base64.rkt") (collects #"net" #"head.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

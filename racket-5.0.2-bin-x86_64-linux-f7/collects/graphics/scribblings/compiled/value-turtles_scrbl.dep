@@ -1,0 +1,1 @@
+("5.0.2" ("b977cf9f928c396c8403b2706bcdcc840dc9c30e" . "0cf372759293c43ee9547eaf838c0d6cb6332758") (collects #"graphics" #"value-turtles.rkt") (collects #"scribble" #"doclang.rkt") (collects #"graphics" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("df4d433f3d1e19213f42d96454b145298428bfcb" . "a19eda1af7037bce87913cdad8ceb0fe147a42c4") (collects #"scheme" #"mzscheme.rkt") (collects #"stepper" #"private" #"shared.rkt") (collects #"mzscheme" #"main.rkt") (collects #"lang" #"private" #"firstorder.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("ed212cd167ed0a45398842831bf86d39fc68844a" . "75141c661450d46baffbe705646f85cf267fc951") (collects #"scheme" #"base.rkt") (collects #"2htdp" #"image.rkt") (collects #"htdp" #"image.rkt") (collects #"htdp" #"error.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

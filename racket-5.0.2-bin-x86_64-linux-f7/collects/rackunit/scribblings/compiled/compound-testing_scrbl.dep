@@ -1,0 +1,1 @@
+("5.0.2" ("0ce3feb125d155d7f3c9e3e3e5d5773834b9b757" . "3093917b3590910ba901f5253412aad22473a90f") (collects #"scribble" #"doclang.rkt") (collects #"rackunit" #"scribblings" #"base.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

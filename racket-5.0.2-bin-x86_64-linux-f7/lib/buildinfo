@@ -1,0 +1,13 @@
+CC=gcc
+CFLAGS=-g -O2  -pthread  -Wall
+OPTIONS=
+MZOPTIONS=
+LDFLAGS= -pthread
+LIBS=-ldl -lm  -ldl -lm -rdynamic 
+CXX=g++
+CXXFLAGS=-g -O2  -pthread  -Wall
+MROPTIONS= -DOPERATOR_NEW_ARRAY -DUSE_GL -DWX_USE_XRENDER -DWX_USE_XFT -DWX_USE_CAIRO -DWX_USE_LIBPNG -DWX_USE_LIBJPEG
+X_CFLAGS= -I/usr/include/freetype2   -I/usr/include/cairo  
+X_LIB= -L/usr/lib64
+MRLIBS=-lSM -lICE -lXaw -lXmu -lXt -lX11 -lXext  -lGL -lXrender -lXft -lXrender -lfontconfig -lfreetype -lX11   -lcairo   -lpng -lz -ljpeg -ldl -lm  -ldl -lm -rdynamic 
+MRLDFLAGS=-pthread -L/usr/lib64 

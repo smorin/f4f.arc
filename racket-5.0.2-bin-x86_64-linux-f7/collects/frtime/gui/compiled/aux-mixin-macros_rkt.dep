@@ -1,0 +1,1 @@
+("5.0.2" ("c1f78a2fcb7f88cdc756f3c25c8dcd7634c8ac36" . "c9497768debb62cffec00e7903cbd0435b4759aa") (collects #"scheme" #"mzscheme.rkt") (collects #"frtime" #"main.rkt") (collects #"frtime" #"gui" #"mixin-macros.rkt") (collects #"mzlib" #"class.rkt"))

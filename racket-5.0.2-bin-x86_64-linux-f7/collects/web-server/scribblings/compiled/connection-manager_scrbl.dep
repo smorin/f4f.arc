@@ -1,0 +1,1 @@
+("5.0.2" ("0b0a2847c7762edcf0301724e55a69dd870bf97a" . "4380719a6ad55b4b5e692068cde7c673d9d6e325") (collects #"web-server" #"private" #"connection-manager.rkt") (collects #"web-server" #"private" #"timer.rkt") (collects #"scribble" #"doclang.rkt") (collects #"web-server" #"scribblings" #"web-server.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

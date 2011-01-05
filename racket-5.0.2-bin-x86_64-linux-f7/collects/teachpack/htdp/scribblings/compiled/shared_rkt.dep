@@ -1,0 +1,1 @@
+("5.0.2" ("95029a2c707f710b05a8bb30469fd3538cfbebad" . "9bf688b8d628e60d86ceb3621aef6256b6fc2fb1") (collects #"lang" #"htdp-beginner.rkt") (collects #"scheme" #"base.rkt") (collects #"scribble" #"manual.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

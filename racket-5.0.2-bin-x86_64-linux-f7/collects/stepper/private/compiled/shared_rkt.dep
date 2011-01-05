@@ -1,0 +1,1 @@
+("5.0.2" ("bfb1dd3ce63aa96235e6d5d7221b616934937c29" . "5378c31c8070b39f24a1426713477d6d2dfd7e4d") (collects #"scheme" #"main.rkt") (collects #"stepper" #"private" #"my-macros.rkt") (collects #"srfi" #"26.rkt") (collects #"scheme" #"class.rkt") (collects #"scheme" #"lang" #"reader.rkt"))

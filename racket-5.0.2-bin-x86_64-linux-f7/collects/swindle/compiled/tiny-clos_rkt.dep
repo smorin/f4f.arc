@@ -1,0 +1,1 @@
+("5.0.2" ("d4697b6453b63b9e9f07335e0437c71d64fa1599" . "18667833ec0c11f81aef8bc0e4047ef7c64fa7d2") (collects #"swindle" #"base.rkt") (collects #"swindle" #"misc.rkt") (collects #"s-exp" #"lang" #"reader.rkt"))

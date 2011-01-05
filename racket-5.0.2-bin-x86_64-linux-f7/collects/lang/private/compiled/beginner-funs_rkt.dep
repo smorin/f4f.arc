@@ -1,0 +1,1 @@
+("5.0.2" ("9b574ce8ab4ae64b5ca9b2d51c31be94162fc1b6" . "a786dbc77dccd1006c2658fb150d88f295f59d89") (collects #"scheme" #"main.rkt") (collects #"mzlib" #"etc.rkt") (collects #"mzlib" #"list.rkt") (collects #"mzlib" #"math.rkt") (collects #"syntax" #"docprovide.rkt") (collects #"lang" #"private" #"teachprims.rkt") (collects #"lang" #"posn.rkt") (collects #"lang" #"imageeq.rkt"))

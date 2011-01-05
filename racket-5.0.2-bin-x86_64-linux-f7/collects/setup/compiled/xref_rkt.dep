@@ -1,0 +1,1 @@
+("5.0.2" ("555f98f1a46000af50c48549e373ba58790783c8" . "047004e5393f056f4b41257f88e73b09f19e50eb") (collects #"scheme" #"base.rkt") (collects #"scribble" #"xref.rkt") (collects #"scheme" #"fasl.rkt") (collects #"scheme" #"path.rkt") (collects #"setup" #"getinfo.rkt") (collects #"setup" #"private" #"path-utils.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

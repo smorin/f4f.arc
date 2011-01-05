@@ -1,0 +1,1 @@
+("5.0.2" ("010da5095f9ec32595d26758bc107e92dd5fcdac" . "b654c0b043c04fc598f999c70c74ab3d65aeef98") (collects #"scheme" #"base.rkt") (collects #"racket" #"match.rkt") (collects #"scheme" #"contract.rkt") (collects #"typed-scheme" #"rep" #"rep-utils.rkt") (collects #"typed-scheme" #"rep" #"free-variance.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

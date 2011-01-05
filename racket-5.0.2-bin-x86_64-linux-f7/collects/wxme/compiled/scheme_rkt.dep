@@ -1,0 +1,1 @@
+("5.0.2" ("21f5f74c565774264da1dfb3e8f1dc9c4018aa5f" . "efcaec9ea32228caa6c6f61d1b1a86cfa5b158bc") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mzlib" #"class.rkt") (collects #"wxme" #"wxme.rkt") (collects #"wxme" #"editor.rkt") (collects #"wxme" #"private" #"readable-editor.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("268e1bf371a92c09b643463bd597408684c90b68" . "57bd88504125fb3849b6c6dc69a0bd6db1353dcc") (collects #"typed-scheme" #"main.rkt") (collects #"typed" #"private" #"utils.rkt") (collects #"net" #"nntp.rkt") (collects #"typed-scheme" #"lang" #"reader.rkt"))

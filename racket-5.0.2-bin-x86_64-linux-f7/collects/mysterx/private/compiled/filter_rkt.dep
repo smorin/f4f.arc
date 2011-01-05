@@ -1,0 +1,1 @@
+("5.0.2" ("bdca461be62e246974562192dbbec2abc4b04ea8" . "5ba9ee8ca946c75d6982e0627a25de48539c2f3e") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mzlib" #"string.rkt") (collects #"mysterx" #"private" #"properties.rkt") (collects #"mysterx" #"private" #"util.rkt"))

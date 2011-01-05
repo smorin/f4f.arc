@@ -1,0 +1,1 @@
+("5.0.2" ("c10f556558bfa10035b48dfc8b72696ecf66034d" . "fbfdfa27a8278bb4bb4e9b8e16e8c18b3536083a") (collects #"scheme" #"base.rkt") (collects #"tex2page" #"tex2page.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

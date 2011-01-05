@@ -1,0 +1,1 @@
+("5.0.2" ("68f243c276403122a6352c7fdee39b46091472d0" . "2f3fab25030d3f2c76e65b1cba85924f602d119d") (collects #"racket" #"unit" #"lang.rkt") (collects #"net" #"dns-sig.rkt") (collects #"scheme" #"system.rkt") (collects #"scheme" #"udp.rkt") (collects #"scheme" #"unit" #"lang" #"reader.rkt"))

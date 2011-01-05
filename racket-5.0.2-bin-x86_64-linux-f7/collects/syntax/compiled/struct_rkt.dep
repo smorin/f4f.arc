@@ -1,0 +1,1 @@
+("5.0.2" ("58ff958b51ac8e71a8eb331dd70f82df2d6dc52a" . "4f1e452733cd019fbc497f55322c2912a5d143bb") (collects #"mzscheme" #"main.rkt") (collects #"scheme" #"base.rkt") (collects #"mzlib" #"etc.rkt") (collects #"scheme" #"contract.rkt") (collects #"syntax" #"stx.rkt") (collects #"scheme" #"struct-info.rkt"))

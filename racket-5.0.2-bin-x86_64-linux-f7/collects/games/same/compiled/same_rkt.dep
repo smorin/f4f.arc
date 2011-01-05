@@ -1,0 +1,1 @@
+("5.0.2" ("30db03620fad95dd92590e8a8bc176546f6b7aa7" . "a7b867932c3bd3006f1f6613e50986b10a690d1f") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mzlib" #"etc.rkt") (collects #"mzlib" #"class.rkt") (collects #"mzlib" #"unit.rkt") (collects #"mred" #"main.rkt") (collects #"mzlib" #"list.rkt") (collects #"games" #"show-scribbling.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("6d5af9d2138856987122006cf84e565064c6a271" . "d7c0e0aec3a5dfe3e54c1b4dfcad76f16f86edff") (collects #"net" #"pop3.rkt") (collects #"net" #"pop3-unit.rkt") (collects #"net" #"pop3-sig.rkt") (collects #"scribble" #"doclang.rkt") (collects #"net" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

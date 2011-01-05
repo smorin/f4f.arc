@@ -1,0 +1,1 @@
+("5.0.2" ("1ae4e078354150b521b2c870f4fce2441846ba51" . "5d61be9574b188b7fb586b912d44b66395c13074") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"tex2page" #"tex2page.rkt") (collects #"mzlib" #"cmdline.rkt"))

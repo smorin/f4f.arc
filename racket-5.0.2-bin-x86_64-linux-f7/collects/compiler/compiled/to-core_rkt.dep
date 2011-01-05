@@ -1,0 +1,1 @@
+("5.0.2" ("ba3b77b4448518c372e5e7a65ded7967258acdf1" . "91916923ede755ded35ae4cf29b6b4874e58d7f4") (collects #"scheme" #"base.rkt") (collects #"syntax" #"kerncase.rkt") (collects #"syntax" #"stx.rkt") (collects #"mzlib" #"list.rkt") (collects #"syntax" #"boundmap.rkt"))

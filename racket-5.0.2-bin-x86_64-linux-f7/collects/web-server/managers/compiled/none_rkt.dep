@@ -1,0 +1,1 @@
+("5.0.2" ("b648d0d4268696f403856237fcd32662aa2c1a49" . "8543ebe02cf1795e95f4ecfbe3fce8bc155a1eb7") (collects #"racket" #"base.rkt") (collects #"racket" #"contract.rkt") (collects #"web-server" #"managers" #"manager.rkt") (collects #"web-server" #"servlet" #"servlet-structs.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

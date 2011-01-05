@@ -1,0 +1,1 @@
+("5.0.2" ("2a3bea11b392f46a53dcfe21ce882c9c27a66fbd" . "740f494a17962de21f3923dac8a79bab95708eb7") (collects #"racket" #"main.rkt") (collects #"racket" #"serialize.rkt") (collects #"web-server" #"stuffers" #"stuffer.rkt") (collects #"web-server" #"private" #"util.rkt") (collects #"web-server" #"private" #"mod-map.rkt") (collects #"racket" #"lang" #"reader.rkt"))

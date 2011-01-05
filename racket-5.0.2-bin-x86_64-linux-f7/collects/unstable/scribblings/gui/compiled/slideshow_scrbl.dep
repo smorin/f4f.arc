@@ -1,0 +1,1 @@
+("5.0.2" ("f8c577ba48b6f31823fd60423b43ebaea0e141f3" . "52c50b66ce851f1d78575a7a82203585a9a5c255") (collects #"slideshow" #"main.rkt") (collects #"unstable" #"contract.rkt") (collects #"unstable" #"gui" #"slideshow.rkt") (collects #"scribble" #"manual" #"lang.rkt") (collects #"unstable" #"scribblings" #"utils.rkt") (collects #"scribble" #"manual" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("9823cec8553b2bede9686e169400a1a863c72a52" . "23c86f6e5b8fe1a01aa3f2da0392ee5c42838849") (collects #"racket" #"base.rkt") (collects #"racket" #"match.rkt") (collects #"racket" #"cmdline.rkt") (collects #"syntax" #"modresolve.rkt") (collects #"macro-debugger" #"analysis" #"check-requires.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

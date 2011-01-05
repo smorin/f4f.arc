@@ -1,0 +1,1 @@
+("5.0.2" ("2c14b4cfabcdd83b25352537d50f43ca2a198337" . "f51e7bceaf9b3faa2038d65131b2c3540a54e88c") (collects #"scheme" #"base.rkt") (collects #"scheme" #"unit.rkt") (collects #"net" #"cookie-sig.rkt") (collects #"net" #"cookie-unit.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

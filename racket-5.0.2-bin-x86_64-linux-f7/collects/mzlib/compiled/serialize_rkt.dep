@@ -1,0 +1,1 @@
+("5.0.2" ("f9ff4e6ac7f463465cd7c6653a850bcb4fcf452f" . "fa33bfff1f3ded840bdabb3f45eace0e0d35edfa") (collects #"scheme" #"mzscheme.rkt") (collects #"syntax" #"struct.rkt") (collects #"mzscheme" #"main.rkt") (collects #"syntax" #"modcollapse.rkt") (collects #"mzlib" #"etc.rkt") (collects #"mzlib" #"list.rkt") (collects #"racket" #"private" #"serialize.rkt"))

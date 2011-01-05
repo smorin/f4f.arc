@@ -1,0 +1,1 @@
+("5.0.2" ("94bdc1c066966f7a9b030d81d9b8ee68a97f1b17" . "9c79c1adb442db9cbfcbdfc743c9284956ce3607") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"graphics" #"value-turtles-examples.rkt") (collects #"graphics" #"value-turtles.rkt") (collects #"mred" #"main.rkt") (collects #"mzlib" #"class.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("58336a2a6f02c108a586d056d617ba0114368230" . "d95202cb30cba8d41f251705471d302c2fe543ae") (collects #"racket" #"base.rkt") (collects #"parser-tools" #"yacc.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

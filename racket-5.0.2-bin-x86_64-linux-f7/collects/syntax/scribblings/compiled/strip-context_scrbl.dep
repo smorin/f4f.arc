@@ -1,0 +1,1 @@
+("5.0.2" ("ee393f97e3e70b768108c7b53015b79826a01b4d" . "ab777df398318e1b6e8e5cdc070bec2c463bfe1c") (collects #"syntax" #"strip-context.rkt") (collects #"scribble" #"doclang.rkt") (collects #"syntax" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

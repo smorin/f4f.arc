@@ -1,0 +1,1 @@
+("5.0.2" ("5cab608cf5d87128319e8f6f6142da3c0146106d" . "2b99bd9ba72235c5fdac2b4756b95d2354bd62bc") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mzlib" #"unit.rkt") (collects #"syntax" #"zodiac-sig.rkt") (collects #"compiler" #"private" #"sig.rkt") (collects #"compiler" #"sig.rkt"))

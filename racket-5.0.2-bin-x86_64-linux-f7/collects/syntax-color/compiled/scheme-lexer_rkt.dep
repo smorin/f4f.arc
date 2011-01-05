@@ -1,0 +1,1 @@
+("5.0.2" ("758e98961d2a496fd1a81b7a7a5a09d233e2f860" . "5e39a57c05063d6f03c47e8334c29af3c2e29b41") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"parser-tools" #"lex.rkt") (collects #"parser-tools" #"lex-sre.rkt"))

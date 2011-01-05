@@ -1,0 +1,1 @@
+("5.0.2" ("fdea4764830363f2db2d20213dde777503a973c3" . "7a434c7beb90f3fe24ccecc9013858c7240100af") (collects #"scheme" #"base.rkt") (collects #"plai" #"private" #"random-mutator.rkt") (collects #"scheme" #"contract.rkt") (collects #"plai" #"private" #"gc-core.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("efd8cc3d5beabc857c0abecabe86694319aa7205" . "33bbba5101f4f5cd92ecd177a0724d22f6e39592") (collects #"racket" #"main.rkt") (collects #"scheme" #"serialize.rkt") (collects #"srfi" #"8" #"receive.rkt") (collects #"srfi" #"29.rkt") (collects #"srfi" #"optional.rkt") (collects #"racket" #"lang" #"reader.rkt"))

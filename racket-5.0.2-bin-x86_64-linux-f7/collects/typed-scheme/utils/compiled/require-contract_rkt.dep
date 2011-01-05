@@ -1,0 +1,1 @@
+("5.0.2" ("fee779e7fd474c13e59ba180f019364d1bc94b1c" . "3e014b3b3a47228836da2a734774714cc843b914") (collects #"scheme" #"base.rkt") (collects #"syntax" #"parse.rkt") (collects #"typed-scheme" #"private" #"typed-renaming.rkt") (collects #"scheme" #"contract.rkt") (collects #"unstable" #"location.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

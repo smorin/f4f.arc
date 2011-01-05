@@ -1,0 +1,1 @@
+("5.0.2" ("47914e762a38210c3781ca98cba22c17b2c62a72" . "119e331697050279eec4fb51c8df0471f2b6596b") (collects #"racket" #"unit" #"lang.rkt") (collects #"mzlib" #"class.rkt") (collects #"framework" #"private" #"sig.rkt") (collects #"framework" #"preferences.rkt") (collects #"mred" #"mred-sig.rkt") (collects #"scheme" #"unit" #"lang" #"reader.rkt"))

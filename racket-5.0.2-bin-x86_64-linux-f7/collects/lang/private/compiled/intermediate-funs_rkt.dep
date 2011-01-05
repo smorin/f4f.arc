@@ -1,0 +1,1 @@
+("5.0.2" ("16e40735d58056660ba603bd654d54f45253d253" . "2ae7ccf85a411519f04ee56e60b731b01d89d876") (collects #"scheme" #"base.rkt") (collects #"lang" #"private" #"teachprims.rkt") (collects #"lang" #"private" #"and-or-map.rkt") (collects #"mzlib" #"etc.rkt") (collects #"scheme" #"list.rkt") (collects #"syntax" #"docprovide.rkt") (collects #"lang" #"private" #"beginner-funs.rkt"))

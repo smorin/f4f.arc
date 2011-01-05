@@ -1,0 +1,1 @@
+("5.0.2" ("42a8bbff2a75e36eeda5dce83ce1d6d025bf69a0" . "27787eb2b3a2806831043d0236d0924d8fd53b43") (collects #"scheme" #"gui.rkt") (collects #"htdp" #"big-draw.rkt") (collects #"htdp" #"error.rkt") (collects #"lang" #"prim.rkt") (collects #"lang" #"posn.rkt") (collects #"mzlib" #"etc.rkt") (collects #"scheme" #"gui" #"lang" #"reader.rkt"))

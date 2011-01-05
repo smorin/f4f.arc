@@ -1,0 +1,1 @@
+("5.0.2" ("6b5ce9d599ef2c59fd580d9aa6e098beedffe439" . "d1f4d9bc76bb62b22b484b20b94817c66a92f87b") (collects #"scribble" #"doclang.rkt") (collects #"scribble" #"lp-include.rkt") (collects #"scribble" #"lp" #"lang" #"reader.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt") (ext collects #"scribblings" #"scribble" #"lp-ex.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("cda2efb8f503c2fa4428dcf8b238fad815014ed7" . "964bb365bff781f1560e10a5b17297e5a3383b13") (collects #"scheme" #"gui.rkt") (collects #"mzlib" #"etc.rkt") (collects #"lang" #"prim.rkt") (collects #"htdp" #"error.rkt") (collects #"scheme" #"gui" #"lang" #"reader.rkt"))

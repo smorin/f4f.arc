@@ -1,0 +1,1 @@
+("5.0.2" ("ecc6b5bfdf63172bbee1422ffc1c60e4228dc528" . "8340443abed1afee3b0367903577b8d4513e4504") (collects #"scheme" #"base.rkt") (collects #"r6rs" #"main.rkt") (collects #"r6rs" #"private" #"prelims.rkt") (collects #"scheme" #"mpair.rkt") (collects #"r6rs" #"private" #"parse-ref.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

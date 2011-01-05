@@ -1,0 +1,1 @@
+("5.0.2" ("3343a1d3cf0cc3ef2bdc7e7dfbfefded951166a3" . "0a46a6a8e664170056ff4099cd316c22c468af0b") (collects #"scheme" #"base.rkt") (collects #"plot" #"plot-extend.rkt") (collects #"plot" #"renderer-helpers.rkt") (collects #"plot" #"view.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

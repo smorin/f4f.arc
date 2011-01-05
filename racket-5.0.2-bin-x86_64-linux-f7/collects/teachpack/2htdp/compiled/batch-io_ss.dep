@@ -1,0 +1,1 @@
+("5.0.2" ("24142c363bbff9b1d54e91a2cc2867525f0e0907" . "f8f51ed117a39e95904b872ae5c9f46b0295dd2f") (collects #"scheme" #"main.rkt") (collects #"2htdp" #"batch-io.rkt") (collects #"scheme" #"lang" #"reader.rkt"))

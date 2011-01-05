@@ -1,0 +1,1 @@
+("5.0.2" ("9a2e8aa9046d58a2243e947a3b9400eae755c70a" . "2f483926e8f01eed4a257ddcb9184b8b840b984e") (collects #"racket" #"base.rkt") (collects #"racket" #"match.rkt") (collects #"planet" #"util.rkt") (collects #"unstable" #"syntax.rkt") (collects #"racket" #"base" #"lang" #"reader.rkt"))

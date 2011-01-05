@@ -1,0 +1,1 @@
+("5.0.2" ("da4c8f18ff2958a8a0ab2a3a5fe082ba585c8e18" . "5cfb88d43968f41f3f5c0a76e7cb6923e63c0c2b") (collects #"scheme" #"mzscheme.rkt") (collects #"mzscheme" #"main.rkt") (collects #"mred" #"main.rkt") (collects #"mzlib" #"class.rkt") (collects #"embedded-gui" #"private" #"snip-wrapper.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("5059cfa7616d6290d3a6cc11dcb5fe3ab85a4cca" . "7487bddb3e0d561e441fd78fc4bf5cf0810ca1d0") (collects #"lang" #"htdp-intermediate-lambda.rkt") (collects #"htdp" #"world.rkt") (collects #"lang" #"htdp-intermediate-lambda-reader.rkt"))

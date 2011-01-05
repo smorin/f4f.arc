@@ -1,0 +1,1 @@
+("5.0.2" ("8058fb2173687f42cc91be743be7deeeab03cff0" . "cfccde1a231a6aab49c689be655d5cdff2ca2f06") (collects #"scheme" #"gui.rkt") (collects #"plai" #"private" #"gc-core.rkt") (collects #"scheme" #"gui" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("7056b097ac832151b2ef801bfc6989b6322ad151" . "45f5c545edd8302c8dcab6fb7f8a32e4690f1304") (collects #"file" #"tar.rkt") (collects #"file" #"gzip.rkt") (collects #"scribble" #"doclang.rkt") (collects #"file" #"scribblings" #"common.rkt") (collects #"scribble" #"doc" #"lang" #"reader.rkt"))

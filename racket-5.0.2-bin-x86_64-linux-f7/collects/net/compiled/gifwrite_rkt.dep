@@ -1,0 +1,1 @@
+("5.0.2" ("44cb27744dff4f0645f160b03034e071908c7587" . "061a919dbe7f4d3b75cdfc544dfe2794cf031fa0") (collects #"scheme" #"base.rkt") (collects #"file" #"gif.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))

@@ -1,0 +1,1 @@
+("5.0.2" ("56365804bba1d71dccd24d6dac0d0c90bfed81c2" . "42c1a467f7a6a1246bbbc515e94db709f531541e") (collects #"scheme" #"base.rkt") (collects #"redex" #"private" #"loc-wrapper-rt.rkt") (collects #"redex" #"private" #"term-fn.rkt") (collects #"scheme" #"base" #"lang" #"reader.rkt"))
