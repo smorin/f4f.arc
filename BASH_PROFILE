@@ -1,4 +1,4 @@
-F4F_HOME=/Users/smorin/code/f4f.arc
+F4F_HOME=~/code/f4f.arc
 alias mzscheme=$F4F_HOME'/Racket_v5.0.2/bin/mzscheme'
 alias arc='pushd '${F4F_HOME}'/arc3.1/; mzscheme -f as.scm; pushd'
 alias arcdir='cd '${F4F_HOME}'/arc3.1/'
