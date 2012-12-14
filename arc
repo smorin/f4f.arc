@@ -13,7 +13,7 @@ if [ "x$F4F_ARCH" == "xLinux" ] ; then
 elif [ "x$F4F_ARCH" == "xDarwin" ] ; then
   F4F_RACKET_HOME=racket-5-0-2-bin-i386-osx-mac-dmg
 else 
-  echo "Your os isn't recognized by the script:"`uname`"exiting"
+  echo "Your OS isn't recognized by the script:"`uname`" exiting"
   exit 1
 fi
 
@@ -26,7 +26,7 @@ ARC_HOME=arc3.1
 
 #arc
 
-#Test to see if a arg has been past and capture the location
+#Test to see if an argument has been passed and capture the location
 
 SELF=$(cd $(dirname $0); pwd -P)/$(basename $0)
 BASEDIR=$(cd $(dirname $0); cd ../ ;  pwd -P)
